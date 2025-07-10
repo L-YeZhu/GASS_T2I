@@ -15,20 +15,14 @@ import ImageReward as RM
 # from transformers import AutoProcessor, AutoModel
 from transformers import CLIPProcessor, CLIPModel, AutoProcessor, AutoModelForImageClassification
 
-clip_model, clip_preprocess = clip.load("ViT-B/32", device="cuda")
-
-
 
 device = "cuda" if torch.cuda.is_available() else "cpu"
 sscd_model = torch.jit.load("sscd_disc_mixup.torchscript.pt")#.to(device).eval()
 reward_model = RM.load("ImageReward-v1.0")
+clip_model, clip_preprocess = clip.load("ViT-B/32", device="cuda")
 pick_processor = CLIPProcessor.from_pretrained("laion/CLIP-ViT-H-14-laion2B-s32B-b79K")
 pick_model = CLIPModel.from_pretrained("yuvalkirstain/PickScore_v1").to("cuda").eval()
-# processor_name_or_path = "laion/CLIP-ViT-H-14-laion2B-s32B-b79K"
-# model_pretrained_name_or_path = "yuvalkirstain/PickScore_v1"
-# processor = AutoProcessor.from_pretrained(processor_name_or_path)
-# pickscore_model = AutoModel.from_pretrained(model_pretrained_name_or_path).eval().to(device)
-with open("/home/ec2-user/pareto_ft/datasets/drawbench_prompts.txt", "r") as f:
+with open("/home/ec2-user/pareto_ft/datasets/cc12m_ordered_prompts.txt", "r") as f:
     prompts = [line.strip() for line in f if line.strip()]
 
 
@@ -43,7 +37,6 @@ small_288 = transforms.Compose([
     transforms.ToTensor(),
     normalize,
 ])
-
 
 
 def load_images_resized(folder, size=(256, 256)):
@@ -82,64 +75,6 @@ def compute_mss_k(images):
     sim_matrix = cosine_similarity(features)
     return sim_matrix
 
-
-# def calc_probs(prompt, images):
-    
-#     # preprocess
-#     image_inputs = processor(
-#         images=images,
-#         padding=True,
-#         truncation=True,
-#         max_length=77,
-#         return_tensors="pt",
-#     ).to(device)
-    
-#     text_inputs = processor(
-#         text=prompt,
-#         padding=True,
-#         truncation=True,
-#         max_length=77,
-#         return_tensors="pt",
-#     ).to(device)
-
-
-    # with torch.no_grad():
-    #     # embed
-    #     image_embs = pickscore_model.get_image_features(**image_inputs)
-    #     image_embs = image_embs / torch.norm(image_embs, dim=-1, keepdim=True)
-    
-    #     text_embs = pickscore_model.get_text_features(**text_inputs)
-    #     text_embs = text_embs / torch.norm(text_embs, dim=-1, keepdim=True)
-    
-    #     # score
-    #     scores = model.logit_scale.exp() * (text_embs @ image_embs.T)[0]
-        
-    #     # get probabilities if you have multiple images to choose from
-    #     probs = torch.softmax(scores, dim=-1)
-    
-    # return probs.cpu().tolist()
-
-# def compute_pickscore_v1(images, prompt):
-#     inputs_img = processor(images=images, padding=True, return_tensors="pt").to("cuda")
-#     inputs_txt = processor(text=prompt, truncation=True, padding=True, return_tensors="pt").to("cuda")
-#     with torch.no_grad():
-#         img_feats = model.get_image_features(**inputs_img)
-#         txt_feats = model.get_text_features(**inputs_txt)
-#         img_feats = img_feats / img_feats.norm(dim=-1, keepdim=True)
-#         txt_feats = txt_feats / txt_feats.norm(dim=-1, keepdim=True)
-#         scores = model.logit_scale.exp() * (txt_feats @ img_feats.T)[0]
-#     return scores.cpu().tolist()
-
-# def compute_pickscore_v2(images, prompts):
-#     scores = []
-#     for img, prompt in zip(images, prompts):
-#         inputs = processor(text=prompt, images=img, return_tensors="pt").to("cuda")
-#         with torch.no_grad():
-#             score = pickscore_model(**inputs).logits[0].item()
-#         scores.append(score)
-#     return scores
-
-
 def compute_pickscore(images, prompt, model, processor):
     scores = []
 
@@ -159,6 +94,7 @@ def compute_pickscore(images, prompt, model, processor):
         scores.append(score.item())
     return scores
 
+
 def evaluate_all(folder_root, image_resize=(256, 256), save_csv="diversity_metrics.csv"):
     clip_model, clip_preprocess = clip.load("ViT-B/32", device="cuda")
 
@@ -171,6 +107,7 @@ def evaluate_all(folder_root, image_resize=(256, 256), save_csv="diversity_metri
     total_reward = 0
     total_pickscore = 0
     count = 0
+    max_img = 36
 
     all_dirs = [f for f in sorted(Path(folder_root).glob("*")) if f.is_dir()]
     for subdir in tqdm(all_dirs):
@@ -180,6 +117,11 @@ def evaluate_all(folder_root, image_resize=(256, 256), save_csv="diversity_metri
 
         if len(images) < 2:
             continue
+
+        if len(images) > max_img:
+            images = images[:max_img]
+            image_paths = image_paths[:max_img]
+            # print("check len:", len(images))
 
         np_images = [np.array(img) for img in images]
         ssim = compute_mean_msssim(np_images)
@@ -224,4 +166,5 @@ def evaluate_all(folder_root, image_resize=(256, 256), save_csv="diversity_metri
 
 if __name__ == "__main__":
     # Example usage
-    evaluate_all("/home/ec2-user/pareto_ft/results/sdxl/drawbench/", save_csv="diversity_metrics_sdxl.csv")
+    evaluate_all("/home/ec2-user/pareto_ft/results/sd3medium/cc12m/", save_csv="sd3_cc12m_new_metrics.csv")
+
