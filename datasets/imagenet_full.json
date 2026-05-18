@@ -1,0 +1,5002 @@
+{
+  "0": {
+    "class": "n01440764",
+    "label": "tench",
+    "prompt": "A photo of tench."
+  },
+  "1": {
+    "class": "n01443537",
+    "label": "goldfish",
+    "prompt": "A photo of goldfish."
+  },
+  "2": {
+    "class": "n01484850",
+    "label": "great_white_shark",
+    "prompt": "A photo of great white shark."
+  },
+  "3": {
+    "class": "n01491361",
+    "label": "tiger_shark",
+    "prompt": "A photo of tiger shark."
+  },
+  "4": {
+    "class": "n01494475",
+    "label": "hammerhead",
+    "prompt": "A photo of hammerhead."
+  },
+  "5": {
+    "class": "n01496331",
+    "label": "electric_ray",
+    "prompt": "A photo of electric ray."
+  },
+  "6": {
+    "class": "n01498041",
+    "label": "stingray",
+    "prompt": "A photo of stingray."
+  },
+  "7": {
+    "class": "n01514668",
+    "label": "cock",
+    "prompt": "A photo of cock."
+  },
+  "8": {
+    "class": "n01514859",
+    "label": "hen",
+    "prompt": "A photo of hen."
+  },
+  "9": {
+    "class": "n01518878",
+    "label": "ostrich",
+    "prompt": "A photo of ostrich."
+  },
+  "10": {
+    "class": "n01530575",
+    "label": "brambling",
+    "prompt": "A photo of brambling."
+  },
+  "11": {
+    "class": "n01531178",
+    "label": "goldfinch",
+    "prompt": "A photo of goldfinch."
+  },
+  "12": {
+    "class": "n01532829",
+    "label": "house_finch",
+    "prompt": "A photo of house finch."
+  },
+  "13": {
+    "class": "n01534433",
+    "label": "junco",
+    "prompt": "A photo of junco."
+  },
+  "14": {
+    "class": "n01537544",
+    "label": "indigo_bunting",
+    "prompt": "A photo of indigo bunting."
+  },
+  "15": {
+    "class": "n01558993",
+    "label": "robin",
+    "prompt": "A photo of robin."
+  },
+  "16": {
+    "class": "n01560419",
+    "label": "bulbul",
+    "prompt": "A photo of bulbul."
+  },
+  "17": {
+    "class": "n01580077",
+    "label": "jay",
+    "prompt": "A photo of jay."
+  },
+  "18": {
+    "class": "n01582220",
+    "label": "magpie",
+    "prompt": "A photo of magpie."
+  },
+  "19": {
+    "class": "n01592084",
+    "label": "chickadee",
+    "prompt": "A photo of chickadee."
+  },
+  "20": {
+    "class": "n01601694",
+    "label": "water_ouzel",
+    "prompt": "A photo of water ouzel."
+  },
+  "21": {
+    "class": "n01608432",
+    "label": "kite",
+    "prompt": "A photo of kite."
+  },
+  "22": {
+    "class": "n01614925",
+    "label": "bald_eagle",
+    "prompt": "A photo of bald eagle."
+  },
+  "23": {
+    "class": "n01616318",
+    "label": "vulture",
+    "prompt": "A photo of vulture."
+  },
+  "24": {
+    "class": "n01622779",
+    "label": "great_grey_owl",
+    "prompt": "A photo of great grey owl."
+  },
+  "25": {
+    "class": "n01629819",
+    "label": "European_fire_salamander",
+    "prompt": "A photo of European fire salamander."
+  },
+  "26": {
+    "class": "n01630670",
+    "label": "common_newt",
+    "prompt": "A photo of common newt."
+  },
+  "27": {
+    "class": "n01631663",
+    "label": "eft",
+    "prompt": "A photo of eft."
+  },
+  "28": {
+    "class": "n01632458",
+    "label": "spotted_salamander",
+    "prompt": "A photo of spotted salamander."
+  },
+  "29": {
+    "class": "n01632777",
+    "label": "axolotl",
+    "prompt": "A photo of axolotl."
+  },
+  "30": {
+    "class": "n01641577",
+    "label": "bullfrog",
+    "prompt": "A photo of bullfrog."
+  },
+  "31": {
+    "class": "n01644373",
+    "label": "tree_frog",
+    "prompt": "A photo of tree frog."
+  },
+  "32": {
+    "class": "n01644900",
+    "label": "tailed_frog",
+    "prompt": "A photo of tailed frog."
+  },
+  "33": {
+    "class": "n01664065",
+    "label": "loggerhead",
+    "prompt": "A photo of loggerhead."
+  },
+  "34": {
+    "class": "n01665541",
+    "label": "leatherback_turtle",
+    "prompt": "A photo of leatherback turtle."
+  },
+  "35": {
+    "class": "n01667114",
+    "label": "mud_turtle",
+    "prompt": "A photo of mud turtle."
+  },
+  "36": {
+    "class": "n01667778",
+    "label": "terrapin",
+    "prompt": "A photo of terrapin."
+  },
+  "37": {
+    "class": "n01669191",
+    "label": "box_turtle",
+    "prompt": "A photo of box turtle."
+  },
+  "38": {
+    "class": "n01675722",
+    "label": "banded_gecko",
+    "prompt": "A photo of banded gecko."
+  },
+  "39": {
+    "class": "n01677366",
+    "label": "common_iguana",
+    "prompt": "A photo of common iguana."
+  },
+  "40": {
+    "class": "n01682714",
+    "label": "American_chameleon",
+    "prompt": "A photo of American chameleon."
+  },
+  "41": {
+    "class": "n01685808",
+    "label": "whiptail",
+    "prompt": "A photo of whiptail."
+  },
+  "42": {
+    "class": "n01687978",
+    "label": "agama",
+    "prompt": "A photo of agama."
+  },
+  "43": {
+    "class": "n01688243",
+    "label": "frilled_lizard",
+    "prompt": "A photo of frilled lizard."
+  },
+  "44": {
+    "class": "n01689811",
+    "label": "alligator_lizard",
+    "prompt": "A photo of alligator lizard."
+  },
+  "45": {
+    "class": "n01692333",
+    "label": "Gila_monster",
+    "prompt": "A photo of Gila monster."
+  },
+  "46": {
+    "class": "n01693334",
+    "label": "green_lizard",
+    "prompt": "A photo of green lizard."
+  },
+  "47": {
+    "class": "n01694178",
+    "label": "African_chameleon",
+    "prompt": "A photo of African chameleon."
+  },
+  "48": {
+    "class": "n01695060",
+    "label": "Komodo_dragon",
+    "prompt": "A photo of Komodo dragon."
+  },
+  "49": {
+    "class": "n01697457",
+    "label": "African_crocodile",
+    "prompt": "A photo of African crocodile."
+  },
+  "50": {
+    "class": "n01698640",
+    "label": "American_alligator",
+    "prompt": "A photo of American alligator."
+  },
+  "51": {
+    "class": "n01704323",
+    "label": "triceratops",
+    "prompt": "A photo of triceratops."
+  },
+  "52": {
+    "class": "n01728572",
+    "label": "thunder_snake",
+    "prompt": "A photo of thunder snake."
+  },
+  "53": {
+    "class": "n01728920",
+    "label": "ringneck_snake",
+    "prompt": "A photo of ringneck snake."
+  },
+  "54": {
+    "class": "n01729322",
+    "label": "hognose_snake",
+    "prompt": "A photo of hognose snake."
+  },
+  "55": {
+    "class": "n01729977",
+    "label": "green_snake",
+    "prompt": "A photo of green snake."
+  },
+  "56": {
+    "class": "n01734418",
+    "label": "king_snake",
+    "prompt": "A photo of king snake."
+  },
+  "57": {
+    "class": "n01735189",
+    "label": "garter_snake",
+    "prompt": "A photo of garter snake."
+  },
+  "58": {
+    "class": "n01737021",
+    "label": "water_snake",
+    "prompt": "A photo of water snake."
+  },
+  "59": {
+    "class": "n01739381",
+    "label": "vine_snake",
+    "prompt": "A photo of vine snake."
+  },
+  "60": {
+    "class": "n01740131",
+    "label": "night_snake",
+    "prompt": "A photo of night snake."
+  },
+  "61": {
+    "class": "n01742172",
+    "label": "boa_constrictor",
+    "prompt": "A photo of boa constrictor."
+  },
+  "62": {
+    "class": "n01744401",
+    "label": "rock_python",
+    "prompt": "A photo of rock python."
+  },
+  "63": {
+    "class": "n01748264",
+    "label": "Indian_cobra",
+    "prompt": "A photo of Indian cobra."
+  },
+  "64": {
+    "class": "n01749939",
+    "label": "green_mamba",
+    "prompt": "A photo of green mamba."
+  },
+  "65": {
+    "class": "n01751748",
+    "label": "sea_snake",
+    "prompt": "A photo of sea snake."
+  },
+  "66": {
+    "class": "n01753488",
+    "label": "horned_viper",
+    "prompt": "A photo of horned viper."
+  },
+  "67": {
+    "class": "n01755581",
+    "label": "diamondback",
+    "prompt": "A photo of diamondback."
+  },
+  "68": {
+    "class": "n01756291",
+    "label": "sidewinder",
+    "prompt": "A photo of sidewinder."
+  },
+  "69": {
+    "class": "n01768244",
+    "label": "trilobite",
+    "prompt": "A photo of trilobite."
+  },
+  "70": {
+    "class": "n01770081",
+    "label": "harvestman",
+    "prompt": "A photo of harvestman."
+  },
+  "71": {
+    "class": "n01770393",
+    "label": "scorpion",
+    "prompt": "A photo of scorpion."
+  },
+  "72": {
+    "class": "n01773157",
+    "label": "black_and_gold_garden_spider",
+    "prompt": "A photo of black and gold garden spider."
+  },
+  "73": {
+    "class": "n01773549",
+    "label": "barn_spider",
+    "prompt": "A photo of barn spider."
+  },
+  "74": {
+    "class": "n01773797",
+    "label": "garden_spider",
+    "prompt": "A photo of garden spider."
+  },
+  "75": {
+    "class": "n01774384",
+    "label": "black_widow",
+    "prompt": "A photo of black widow."
+  },
+  "76": {
+    "class": "n01774750",
+    "label": "tarantula",
+    "prompt": "A photo of tarantula."
+  },
+  "77": {
+    "class": "n01775062",
+    "label": "wolf_spider",
+    "prompt": "A photo of wolf spider."
+  },
+  "78": {
+    "class": "n01776313",
+    "label": "tick",
+    "prompt": "A photo of tick."
+  },
+  "79": {
+    "class": "n01784675",
+    "label": "centipede",
+    "prompt": "A photo of centipede."
+  },
+  "80": {
+    "class": "n01795545",
+    "label": "black_grouse",
+    "prompt": "A photo of black grouse."
+  },
+  "81": {
+    "class": "n01796340",
+    "label": "ptarmigan",
+    "prompt": "A photo of ptarmigan."
+  },
+  "82": {
+    "class": "n01797886",
+    "label": "ruffed_grouse",
+    "prompt": "A photo of ruffed grouse."
+  },
+  "83": {
+    "class": "n01798484",
+    "label": "prairie_chicken",
+    "prompt": "A photo of prairie chicken."
+  },
+  "84": {
+    "class": "n01806143",
+    "label": "peacock",
+    "prompt": "A photo of peacock."
+  },
+  "85": {
+    "class": "n01806567",
+    "label": "quail",
+    "prompt": "A photo of quail."
+  },
+  "86": {
+    "class": "n01807496",
+    "label": "partridge",
+    "prompt": "A photo of partridge."
+  },
+  "87": {
+    "class": "n01817953",
+    "label": "African_grey",
+    "prompt": "A photo of African grey."
+  },
+  "88": {
+    "class": "n01818515",
+    "label": "macaw",
+    "prompt": "A photo of macaw."
+  },
+  "89": {
+    "class": "n01819313",
+    "label": "sulphur-crested_cockatoo",
+    "prompt": "A photo of sulphur-crested cockatoo."
+  },
+  "90": {
+    "class": "n01820546",
+    "label": "lorikeet",
+    "prompt": "A photo of lorikeet."
+  },
+  "91": {
+    "class": "n01824575",
+    "label": "coucal",
+    "prompt": "A photo of coucal."
+  },
+  "92": {
+    "class": "n01828970",
+    "label": "bee_eater",
+    "prompt": "A photo of bee eater."
+  },
+  "93": {
+    "class": "n01829413",
+    "label": "hornbill",
+    "prompt": "A photo of hornbill."
+  },
+  "94": {
+    "class": "n01833805",
+    "label": "hummingbird",
+    "prompt": "A photo of hummingbird."
+  },
+  "95": {
+    "class": "n01843065",
+    "label": "jacamar",
+    "prompt": "A photo of jacamar."
+  },
+  "96": {
+    "class": "n01843383",
+    "label": "toucan",
+    "prompt": "A photo of toucan."
+  },
+  "97": {
+    "class": "n01847000",
+    "label": "drake",
+    "prompt": "A photo of drake."
+  },
+  "98": {
+    "class": "n01855032",
+    "label": "red-breasted_merganser",
+    "prompt": "A photo of red-breasted merganser."
+  },
+  "99": {
+    "class": "n01855672",
+    "label": "goose",
+    "prompt": "A photo of goose."
+  },
+  "100": {
+    "class": "n01860187",
+    "label": "black_swan",
+    "prompt": "A photo of black swan."
+  },
+  "101": {
+    "class": "n01871265",
+    "label": "tusker",
+    "prompt": "A photo of tusker."
+  },
+  "102": {
+    "class": "n01872401",
+    "label": "echidna",
+    "prompt": "A photo of echidna."
+  },
+  "103": {
+    "class": "n01873310",
+    "label": "platypus",
+    "prompt": "A photo of platypus."
+  },
+  "104": {
+    "class": "n01877812",
+    "label": "wallaby",
+    "prompt": "A photo of wallaby."
+  },
+  "105": {
+    "class": "n01882714",
+    "label": "koala",
+    "prompt": "A photo of koala."
+  },
+  "106": {
+    "class": "n01883070",
+    "label": "wombat",
+    "prompt": "A photo of wombat."
+  },
+  "107": {
+    "class": "n01910747",
+    "label": "jellyfish",
+    "prompt": "A photo of jellyfish."
+  },
+  "108": {
+    "class": "n01914609",
+    "label": "sea_anemone",
+    "prompt": "A photo of sea anemone."
+  },
+  "109": {
+    "class": "n01917289",
+    "label": "brain_coral",
+    "prompt": "A photo of brain coral."
+  },
+  "110": {
+    "class": "n01924916",
+    "label": "flatworm",
+    "prompt": "A photo of flatworm."
+  },
+  "111": {
+    "class": "n01930112",
+    "label": "nematode",
+    "prompt": "A photo of nematode."
+  },
+  "112": {
+    "class": "n01943899",
+    "label": "conch",
+    "prompt": "A photo of conch."
+  },
+  "113": {
+    "class": "n01944390",
+    "label": "snail",
+    "prompt": "A photo of snail."
+  },
+  "114": {
+    "class": "n01945685",
+    "label": "slug",
+    "prompt": "A photo of slug."
+  },
+  "115": {
+    "class": "n01950731",
+    "label": "sea_slug",
+    "prompt": "A photo of sea slug."
+  },
+  "116": {
+    "class": "n01955084",
+    "label": "chiton",
+    "prompt": "A photo of chiton."
+  },
+  "117": {
+    "class": "n01968897",
+    "label": "chambered_nautilus",
+    "prompt": "A photo of chambered nautilus."
+  },
+  "118": {
+    "class": "n01978287",
+    "label": "Dungeness_crab",
+    "prompt": "A photo of Dungeness crab."
+  },
+  "119": {
+    "class": "n01978455",
+    "label": "rock_crab",
+    "prompt": "A photo of rock crab."
+  },
+  "120": {
+    "class": "n01980166",
+    "label": "fiddler_crab",
+    "prompt": "A photo of fiddler crab."
+  },
+  "121": {
+    "class": "n01981276",
+    "label": "king_crab",
+    "prompt": "A photo of king crab."
+  },
+  "122": {
+    "class": "n01983481",
+    "label": "American_lobster",
+    "prompt": "A photo of American lobster."
+  },
+  "123": {
+    "class": "n01984695",
+    "label": "spiny_lobster",
+    "prompt": "A photo of spiny lobster."
+  },
+  "124": {
+    "class": "n01985128",
+    "label": "crayfish",
+    "prompt": "A photo of crayfish."
+  },
+  "125": {
+    "class": "n01986214",
+    "label": "hermit_crab",
+    "prompt": "A photo of hermit crab."
+  },
+  "126": {
+    "class": "n01990800",
+    "label": "isopod",
+    "prompt": "A photo of isopod."
+  },
+  "127": {
+    "class": "n02002556",
+    "label": "white_stork",
+    "prompt": "A photo of white stork."
+  },
+  "128": {
+    "class": "n02002724",
+    "label": "black_stork",
+    "prompt": "A photo of black stork."
+  },
+  "129": {
+    "class": "n02006656",
+    "label": "spoonbill",
+    "prompt": "A photo of spoonbill."
+  },
+  "130": {
+    "class": "n02007558",
+    "label": "flamingo",
+    "prompt": "A photo of flamingo."
+  },
+  "131": {
+    "class": "n02009229",
+    "label": "little_blue_heron",
+    "prompt": "A photo of little blue heron."
+  },
+  "132": {
+    "class": "n02009912",
+    "label": "American_egret",
+    "prompt": "A photo of American egret."
+  },
+  "133": {
+    "class": "n02011460",
+    "label": "bittern",
+    "prompt": "A photo of bittern."
+  },
+  "134": {
+    "class": "n02012849",
+    "label": "crane",
+    "prompt": "A photo of crane."
+  },
+  "135": {
+    "class": "n02013706",
+    "label": "limpkin",
+    "prompt": "A photo of limpkin."
+  },
+  "136": {
+    "class": "n02017213",
+    "label": "European_gallinule",
+    "prompt": "A photo of European gallinule."
+  },
+  "137": {
+    "class": "n02018207",
+    "label": "American_coot",
+    "prompt": "A photo of American coot."
+  },
+  "138": {
+    "class": "n02018795",
+    "label": "bustard",
+    "prompt": "A photo of bustard."
+  },
+  "139": {
+    "class": "n02025239",
+    "label": "ruddy_turnstone",
+    "prompt": "A photo of ruddy turnstone."
+  },
+  "140": {
+    "class": "n02027492",
+    "label": "red-backed_sandpiper",
+    "prompt": "A photo of red-backed sandpiper."
+  },
+  "141": {
+    "class": "n02028035",
+    "label": "redshank",
+    "prompt": "A photo of redshank."
+  },
+  "142": {
+    "class": "n02033041",
+    "label": "dowitcher",
+    "prompt": "A photo of dowitcher."
+  },
+  "143": {
+    "class": "n02037110",
+    "label": "oystercatcher",
+    "prompt": "A photo of oystercatcher."
+  },
+  "144": {
+    "class": "n02051845",
+    "label": "pelican",
+    "prompt": "A photo of pelican."
+  },
+  "145": {
+    "class": "n02056570",
+    "label": "king_penguin",
+    "prompt": "A photo of king penguin."
+  },
+  "146": {
+    "class": "n02058221",
+    "label": "albatross",
+    "prompt": "A photo of albatross."
+  },
+  "147": {
+    "class": "n02066245",
+    "label": "grey_whale",
+    "prompt": "A photo of grey whale."
+  },
+  "148": {
+    "class": "n02071294",
+    "label": "killer_whale",
+    "prompt": "A photo of killer whale."
+  },
+  "149": {
+    "class": "n02074367",
+    "label": "dugong",
+    "prompt": "A photo of dugong."
+  },
+  "150": {
+    "class": "n02077923",
+    "label": "sea_lion",
+    "prompt": "A photo of sea lion."
+  },
+  "151": {
+    "class": "n02085620",
+    "label": "Chihuahua",
+    "prompt": "A photo of Chihuahua."
+  },
+  "152": {
+    "class": "n02085782",
+    "label": "Japanese_spaniel",
+    "prompt": "A photo of Japanese spaniel."
+  },
+  "153": {
+    "class": "n02085936",
+    "label": "Maltese_dog",
+    "prompt": "A photo of Maltese dog."
+  },
+  "154": {
+    "class": "n02086079",
+    "label": "Pekinese",
+    "prompt": "A photo of Pekinese."
+  },
+  "155": {
+    "class": "n02086240",
+    "label": "Shih-Tzu",
+    "prompt": "A photo of Shih-Tzu."
+  },
+  "156": {
+    "class": "n02086646",
+    "label": "Blenheim_spaniel",
+    "prompt": "A photo of Blenheim spaniel."
+  },
+  "157": {
+    "class": "n02086910",
+    "label": "papillon",
+    "prompt": "A photo of papillon."
+  },
+  "158": {
+    "class": "n02087046",
+    "label": "toy_terrier",
+    "prompt": "A photo of toy terrier."
+  },
+  "159": {
+    "class": "n02087394",
+    "label": "Rhodesian_ridgeback",
+    "prompt": "A photo of Rhodesian ridgeback."
+  },
+  "160": {
+    "class": "n02088094",
+    "label": "Afghan_hound",
+    "prompt": "A photo of Afghan hound."
+  },
+  "161": {
+    "class": "n02088238",
+    "label": "basset",
+    "prompt": "A photo of basset."
+  },
+  "162": {
+    "class": "n02088364",
+    "label": "beagle",
+    "prompt": "A photo of beagle."
+  },
+  "163": {
+    "class": "n02088466",
+    "label": "bloodhound",
+    "prompt": "A photo of bloodhound."
+  },
+  "164": {
+    "class": "n02088632",
+    "label": "bluetick",
+    "prompt": "A photo of bluetick."
+  },
+  "165": {
+    "class": "n02089078",
+    "label": "black-and-tan_coonhound",
+    "prompt": "A photo of black-and-tan coonhound."
+  },
+  "166": {
+    "class": "n02089867",
+    "label": "Walker_hound",
+    "prompt": "A photo of Walker hound."
+  },
+  "167": {
+    "class": "n02089973",
+    "label": "English_foxhound",
+    "prompt": "A photo of English foxhound."
+  },
+  "168": {
+    "class": "n02090379",
+    "label": "redbone",
+    "prompt": "A photo of redbone."
+  },
+  "169": {
+    "class": "n02090622",
+    "label": "borzoi",
+    "prompt": "A photo of borzoi."
+  },
+  "170": {
+    "class": "n02090721",
+    "label": "Irish_wolfhound",
+    "prompt": "A photo of Irish wolfhound."
+  },
+  "171": {
+    "class": "n02091032",
+    "label": "Italian_greyhound",
+    "prompt": "A photo of Italian greyhound."
+  },
+  "172": {
+    "class": "n02091134",
+    "label": "whippet",
+    "prompt": "A photo of whippet."
+  },
+  "173": {
+    "class": "n02091244",
+    "label": "Ibizan_hound",
+    "prompt": "A photo of Ibizan hound."
+  },
+  "174": {
+    "class": "n02091467",
+    "label": "Norwegian_elkhound",
+    "prompt": "A photo of Norwegian elkhound."
+  },
+  "175": {
+    "class": "n02091635",
+    "label": "otterhound",
+    "prompt": "A photo of otterhound."
+  },
+  "176": {
+    "class": "n02091831",
+    "label": "Saluki",
+    "prompt": "A photo of Saluki."
+  },
+  "177": {
+    "class": "n02092002",
+    "label": "Scottish_deerhound",
+    "prompt": "A photo of Scottish deerhound."
+  },
+  "178": {
+    "class": "n02092339",
+    "label": "Weimaraner",
+    "prompt": "A photo of Weimaraner."
+  },
+  "179": {
+    "class": "n02093256",
+    "label": "Staffordshire_bullterrier",
+    "prompt": "A photo of Staffordshire bullterrier."
+  },
+  "180": {
+    "class": "n02093428",
+    "label": "American_Staffordshire_terrier",
+    "prompt": "A photo of American Staffordshire terrier."
+  },
+  "181": {
+    "class": "n02093647",
+    "label": "Bedlington_terrier",
+    "prompt": "A photo of Bedlington terrier."
+  },
+  "182": {
+    "class": "n02093754",
+    "label": "Border_terrier",
+    "prompt": "A photo of Border terrier."
+  },
+  "183": {
+    "class": "n02093859",
+    "label": "Kerry_blue_terrier",
+    "prompt": "A photo of Kerry blue terrier."
+  },
+  "184": {
+    "class": "n02093991",
+    "label": "Irish_terrier",
+    "prompt": "A photo of Irish terrier."
+  },
+  "185": {
+    "class": "n02094114",
+    "label": "Norfolk_terrier",
+    "prompt": "A photo of Norfolk terrier."
+  },
+  "186": {
+    "class": "n02094258",
+    "label": "Norwich_terrier",
+    "prompt": "A photo of Norwich terrier."
+  },
+  "187": {
+    "class": "n02094433",
+    "label": "Yorkshire_terrier",
+    "prompt": "A photo of Yorkshire terrier."
+  },
+  "188": {
+    "class": "n02095314",
+    "label": "wire-haired_fox_terrier",
+    "prompt": "A photo of wire-haired fox terrier."
+  },
+  "189": {
+    "class": "n02095570",
+    "label": "Lakeland_terrier",
+    "prompt": "A photo of Lakeland terrier."
+  },
+  "190": {
+    "class": "n02095889",
+    "label": "Sealyham_terrier",
+    "prompt": "A photo of Sealyham terrier."
+  },
+  "191": {
+    "class": "n02096051",
+    "label": "Airedale",
+    "prompt": "A photo of Airedale."
+  },
+  "192": {
+    "class": "n02096177",
+    "label": "cairn",
+    "prompt": "A photo of cairn."
+  },
+  "193": {
+    "class": "n02096294",
+    "label": "Australian_terrier",
+    "prompt": "A photo of Australian terrier."
+  },
+  "194": {
+    "class": "n02096437",
+    "label": "Dandie_Dinmont",
+    "prompt": "A photo of Dandie Dinmont."
+  },
+  "195": {
+    "class": "n02096585",
+    "label": "Boston_bull",
+    "prompt": "A photo of Boston bull."
+  },
+  "196": {
+    "class": "n02097047",
+    "label": "miniature_schnauzer",
+    "prompt": "A photo of miniature schnauzer."
+  },
+  "197": {
+    "class": "n02097130",
+    "label": "giant_schnauzer",
+    "prompt": "A photo of giant schnauzer."
+  },
+  "198": {
+    "class": "n02097209",
+    "label": "standard_schnauzer",
+    "prompt": "A photo of standard schnauzer."
+  },
+  "199": {
+    "class": "n02097298",
+    "label": "Scotch_terrier",
+    "prompt": "A photo of Scotch terrier."
+  },
+  "200": {
+    "class": "n02097474",
+    "label": "Tibetan_terrier",
+    "prompt": "A photo of Tibetan terrier."
+  },
+  "201": {
+    "class": "n02097658",
+    "label": "silky_terrier",
+    "prompt": "A photo of silky terrier."
+  },
+  "202": {
+    "class": "n02098105",
+    "label": "soft-coated_wheaten_terrier",
+    "prompt": "A photo of soft-coated wheaten terrier."
+  },
+  "203": {
+    "class": "n02098286",
+    "label": "West_Highland_white_terrier",
+    "prompt": "A photo of West Highland white terrier."
+  },
+  "204": {
+    "class": "n02098413",
+    "label": "Lhasa",
+    "prompt": "A photo of Lhasa."
+  },
+  "205": {
+    "class": "n02099267",
+    "label": "flat-coated_retriever",
+    "prompt": "A photo of flat-coated retriever."
+  },
+  "206": {
+    "class": "n02099429",
+    "label": "curly-coated_retriever",
+    "prompt": "A photo of curly-coated retriever."
+  },
+  "207": {
+    "class": "n02099601",
+    "label": "golden_retriever",
+    "prompt": "A photo of golden retriever."
+  },
+  "208": {
+    "class": "n02099712",
+    "label": "Labrador_retriever",
+    "prompt": "A photo of Labrador retriever."
+  },
+  "209": {
+    "class": "n02099849",
+    "label": "Chesapeake_Bay_retriever",
+    "prompt": "A photo of Chesapeake Bay retriever."
+  },
+  "210": {
+    "class": "n02100236",
+    "label": "German_short-haired_pointer",
+    "prompt": "A photo of German short-haired pointer."
+  },
+  "211": {
+    "class": "n02100583",
+    "label": "vizsla",
+    "prompt": "A photo of vizsla."
+  },
+  "212": {
+    "class": "n02100735",
+    "label": "English_setter",
+    "prompt": "A photo of English setter."
+  },
+  "213": {
+    "class": "n02100877",
+    "label": "Irish_setter",
+    "prompt": "A photo of Irish setter."
+  },
+  "214": {
+    "class": "n02101006",
+    "label": "Gordon_setter",
+    "prompt": "A photo of Gordon setter."
+  },
+  "215": {
+    "class": "n02101388",
+    "label": "Brittany_spaniel",
+    "prompt": "A photo of Brittany spaniel."
+  },
+  "216": {
+    "class": "n02101556",
+    "label": "clumber",
+    "prompt": "A photo of clumber."
+  },
+  "217": {
+    "class": "n02102040",
+    "label": "English_springer",
+    "prompt": "A photo of English springer."
+  },
+  "218": {
+    "class": "n02102177",
+    "label": "Welsh_springer_spaniel",
+    "prompt": "A photo of Welsh springer spaniel."
+  },
+  "219": {
+    "class": "n02102318",
+    "label": "cocker_spaniel",
+    "prompt": "A photo of cocker spaniel."
+  },
+  "220": {
+    "class": "n02102480",
+    "label": "Sussex_spaniel",
+    "prompt": "A photo of Sussex spaniel."
+  },
+  "221": {
+    "class": "n02102973",
+    "label": "Irish_water_spaniel",
+    "prompt": "A photo of Irish water spaniel."
+  },
+  "222": {
+    "class": "n02104029",
+    "label": "kuvasz",
+    "prompt": "A photo of kuvasz."
+  },
+  "223": {
+    "class": "n02104365",
+    "label": "schipperke",
+    "prompt": "A photo of schipperke."
+  },
+  "224": {
+    "class": "n02105056",
+    "label": "groenendael",
+    "prompt": "A photo of groenendael."
+  },
+  "225": {
+    "class": "n02105162",
+    "label": "malinois",
+    "prompt": "A photo of malinois."
+  },
+  "226": {
+    "class": "n02105251",
+    "label": "briard",
+    "prompt": "A photo of briard."
+  },
+  "227": {
+    "class": "n02105412",
+    "label": "kelpie",
+    "prompt": "A photo of kelpie."
+  },
+  "228": {
+    "class": "n02105505",
+    "label": "komondor",
+    "prompt": "A photo of komondor."
+  },
+  "229": {
+    "class": "n02105641",
+    "label": "Old_English_sheepdog",
+    "prompt": "A photo of Old English sheepdog."
+  },
+  "230": {
+    "class": "n02105855",
+    "label": "Shetland_sheepdog",
+    "prompt": "A photo of Shetland sheepdog."
+  },
+  "231": {
+    "class": "n02106030",
+    "label": "collie",
+    "prompt": "A photo of collie."
+  },
+  "232": {
+    "class": "n02106166",
+    "label": "Border_collie",
+    "prompt": "A photo of Border collie."
+  },
+  "233": {
+    "class": "n02106382",
+    "label": "Bouvier_des_Flandres",
+    "prompt": "A photo of Bouvier des Flandres."
+  },
+  "234": {
+    "class": "n02106550",
+    "label": "Rottweiler",
+    "prompt": "A photo of Rottweiler."
+  },
+  "235": {
+    "class": "n02106662",
+    "label": "German_shepherd",
+    "prompt": "A photo of German shepherd."
+  },
+  "236": {
+    "class": "n02107142",
+    "label": "Doberman",
+    "prompt": "A photo of Doberman."
+  },
+  "237": {
+    "class": "n02107312",
+    "label": "miniature_pinscher",
+    "prompt": "A photo of miniature pinscher."
+  },
+  "238": {
+    "class": "n02107574",
+    "label": "Greater_Swiss_Mountain_dog",
+    "prompt": "A photo of Greater Swiss Mountain dog."
+  },
+  "239": {
+    "class": "n02107683",
+    "label": "Bernese_mountain_dog",
+    "prompt": "A photo of Bernese mountain dog."
+  },
+  "240": {
+    "class": "n02107908",
+    "label": "Appenzeller",
+    "prompt": "A photo of Appenzeller."
+  },
+  "241": {
+    "class": "n02108000",
+    "label": "EntleBucher",
+    "prompt": "A photo of EntleBucher."
+  },
+  "242": {
+    "class": "n02108089",
+    "label": "boxer",
+    "prompt": "A photo of boxer."
+  },
+  "243": {
+    "class": "n02108422",
+    "label": "bull_mastiff",
+    "prompt": "A photo of bull mastiff."
+  },
+  "244": {
+    "class": "n02108551",
+    "label": "Tibetan_mastiff",
+    "prompt": "A photo of Tibetan mastiff."
+  },
+  "245": {
+    "class": "n02108915",
+    "label": "French_bulldog",
+    "prompt": "A photo of French bulldog."
+  },
+  "246": {
+    "class": "n02109047",
+    "label": "Great_Dane",
+    "prompt": "A photo of Great Dane."
+  },
+  "247": {
+    "class": "n02109525",
+    "label": "Saint_Bernard",
+    "prompt": "A photo of Saint Bernard."
+  },
+  "248": {
+    "class": "n02109961",
+    "label": "Eskimo_dog",
+    "prompt": "A photo of Eskimo dog."
+  },
+  "249": {
+    "class": "n02110063",
+    "label": "malamute",
+    "prompt": "A photo of malamute."
+  },
+  "250": {
+    "class": "n02110185",
+    "label": "Siberian_husky",
+    "prompt": "A photo of Siberian husky."
+  },
+  "251": {
+    "class": "n02110341",
+    "label": "dalmatian",
+    "prompt": "A photo of dalmatian."
+  },
+  "252": {
+    "class": "n02110627",
+    "label": "affenpinscher",
+    "prompt": "A photo of affenpinscher."
+  },
+  "253": {
+    "class": "n02110806",
+    "label": "basenji",
+    "prompt": "A photo of basenji."
+  },
+  "254": {
+    "class": "n02110958",
+    "label": "pug",
+    "prompt": "A photo of pug."
+  },
+  "255": {
+    "class": "n02111129",
+    "label": "Leonberg",
+    "prompt": "A photo of Leonberg."
+  },
+  "256": {
+    "class": "n02111277",
+    "label": "Newfoundland",
+    "prompt": "A photo of Newfoundland."
+  },
+  "257": {
+    "class": "n02111500",
+    "label": "Great_Pyrenees",
+    "prompt": "A photo of Great Pyrenees."
+  },
+  "258": {
+    "class": "n02111889",
+    "label": "Samoyed",
+    "prompt": "A photo of Samoyed."
+  },
+  "259": {
+    "class": "n02112018",
+    "label": "Pomeranian",
+    "prompt": "A photo of Pomeranian."
+  },
+  "260": {
+    "class": "n02112137",
+    "label": "chow",
+    "prompt": "A photo of chow."
+  },
+  "261": {
+    "class": "n02112350",
+    "label": "keeshond",
+    "prompt": "A photo of keeshond."
+  },
+  "262": {
+    "class": "n02112706",
+    "label": "Brabancon_griffon",
+    "prompt": "A photo of Brabancon griffon."
+  },
+  "263": {
+    "class": "n02113023",
+    "label": "Pembroke",
+    "prompt": "A photo of Pembroke."
+  },
+  "264": {
+    "class": "n02113186",
+    "label": "Cardigan",
+    "prompt": "A photo of Cardigan."
+  },
+  "265": {
+    "class": "n02113624",
+    "label": "toy_poodle",
+    "prompt": "A photo of toy poodle."
+  },
+  "266": {
+    "class": "n02113712",
+    "label": "miniature_poodle",
+    "prompt": "A photo of miniature poodle."
+  },
+  "267": {
+    "class": "n02113799",
+    "label": "standard_poodle",
+    "prompt": "A photo of standard poodle."
+  },
+  "268": {
+    "class": "n02113978",
+    "label": "Mexican_hairless",
+    "prompt": "A photo of Mexican hairless."
+  },
+  "269": {
+    "class": "n02114367",
+    "label": "timber_wolf",
+    "prompt": "A photo of timber wolf."
+  },
+  "270": {
+    "class": "n02114548",
+    "label": "white_wolf",
+    "prompt": "A photo of white wolf."
+  },
+  "271": {
+    "class": "n02114712",
+    "label": "red_wolf",
+    "prompt": "A photo of red wolf."
+  },
+  "272": {
+    "class": "n02114855",
+    "label": "coyote",
+    "prompt": "A photo of coyote."
+  },
+  "273": {
+    "class": "n02115641",
+    "label": "dingo",
+    "prompt": "A photo of dingo."
+  },
+  "274": {
+    "class": "n02115913",
+    "label": "dhole",
+    "prompt": "A photo of dhole."
+  },
+  "275": {
+    "class": "n02116738",
+    "label": "African_hunting_dog",
+    "prompt": "A photo of African hunting dog."
+  },
+  "276": {
+    "class": "n02117135",
+    "label": "hyena",
+    "prompt": "A photo of hyena."
+  },
+  "277": {
+    "class": "n02119022",
+    "label": "red_fox",
+    "prompt": "A photo of red fox."
+  },
+  "278": {
+    "class": "n02119789",
+    "label": "kit_fox",
+    "prompt": "A photo of kit fox."
+  },
+  "279": {
+    "class": "n02120079",
+    "label": "Arctic_fox",
+    "prompt": "A photo of Arctic fox."
+  },
+  "280": {
+    "class": "n02120505",
+    "label": "grey_fox",
+    "prompt": "A photo of grey fox."
+  },
+  "281": {
+    "class": "n02123045",
+    "label": "tabby",
+    "prompt": "A photo of tabby."
+  },
+  "282": {
+    "class": "n02123159",
+    "label": "tiger_cat",
+    "prompt": "A photo of tiger cat."
+  },
+  "283": {
+    "class": "n02123394",
+    "label": "Persian_cat",
+    "prompt": "A photo of Persian cat."
+  },
+  "284": {
+    "class": "n02123597",
+    "label": "Siamese_cat",
+    "prompt": "A photo of Siamese cat."
+  },
+  "285": {
+    "class": "n02124075",
+    "label": "Egyptian_cat",
+    "prompt": "A photo of Egyptian cat."
+  },
+  "286": {
+    "class": "n02125311",
+    "label": "cougar",
+    "prompt": "A photo of cougar."
+  },
+  "287": {
+    "class": "n02127052",
+    "label": "lynx",
+    "prompt": "A photo of lynx."
+  },
+  "288": {
+    "class": "n02128385",
+    "label": "leopard",
+    "prompt": "A photo of leopard."
+  },
+  "289": {
+    "class": "n02128757",
+    "label": "snow_leopard",
+    "prompt": "A photo of snow leopard."
+  },
+  "290": {
+    "class": "n02128925",
+    "label": "jaguar",
+    "prompt": "A photo of jaguar."
+  },
+  "291": {
+    "class": "n02129165",
+    "label": "lion",
+    "prompt": "A photo of lion."
+  },
+  "292": {
+    "class": "n02129604",
+    "label": "tiger",
+    "prompt": "A photo of tiger."
+  },
+  "293": {
+    "class": "n02130308",
+    "label": "cheetah",
+    "prompt": "A photo of cheetah."
+  },
+  "294": {
+    "class": "n02132136",
+    "label": "brown_bear",
+    "prompt": "A photo of brown bear."
+  },
+  "295": {
+    "class": "n02133161",
+    "label": "American_black_bear",
+    "prompt": "A photo of American black bear."
+  },
+  "296": {
+    "class": "n02134084",
+    "label": "ice_bear",
+    "prompt": "A photo of ice bear."
+  },
+  "297": {
+    "class": "n02134418",
+    "label": "sloth_bear",
+    "prompt": "A photo of sloth bear."
+  },
+  "298": {
+    "class": "n02137549",
+    "label": "mongoose",
+    "prompt": "A photo of mongoose."
+  },
+  "299": {
+    "class": "n02138441",
+    "label": "meerkat",
+    "prompt": "A photo of meerkat."
+  },
+  "300": {
+    "class": "n02165105",
+    "label": "tiger_beetle",
+    "prompt": "A photo of tiger beetle."
+  },
+  "301": {
+    "class": "n02165456",
+    "label": "ladybug",
+    "prompt": "A photo of ladybug."
+  },
+  "302": {
+    "class": "n02167151",
+    "label": "ground_beetle",
+    "prompt": "A photo of ground beetle."
+  },
+  "303": {
+    "class": "n02168699",
+    "label": "long-horned_beetle",
+    "prompt": "A photo of long-horned beetle."
+  },
+  "304": {
+    "class": "n02169497",
+    "label": "leaf_beetle",
+    "prompt": "A photo of leaf beetle."
+  },
+  "305": {
+    "class": "n02172182",
+    "label": "dung_beetle",
+    "prompt": "A photo of dung beetle."
+  },
+  "306": {
+    "class": "n02174001",
+    "label": "rhinoceros_beetle",
+    "prompt": "A photo of rhinoceros beetle."
+  },
+  "307": {
+    "class": "n02177972",
+    "label": "weevil",
+    "prompt": "A photo of weevil."
+  },
+  "308": {
+    "class": "n02190166",
+    "label": "fly",
+    "prompt": "A photo of fly."
+  },
+  "309": {
+    "class": "n02206856",
+    "label": "bee",
+    "prompt": "A photo of bee."
+  },
+  "310": {
+    "class": "n02219486",
+    "label": "ant",
+    "prompt": "A photo of ant."
+  },
+  "311": {
+    "class": "n02226429",
+    "label": "grasshopper",
+    "prompt": "A photo of grasshopper."
+  },
+  "312": {
+    "class": "n02229544",
+    "label": "cricket",
+    "prompt": "A photo of cricket."
+  },
+  "313": {
+    "class": "n02231487",
+    "label": "walking_stick",
+    "prompt": "A photo of walking stick."
+  },
+  "314": {
+    "class": "n02233338",
+    "label": "cockroach",
+    "prompt": "A photo of cockroach."
+  },
+  "315": {
+    "class": "n02236044",
+    "label": "mantis",
+    "prompt": "A photo of mantis."
+  },
+  "316": {
+    "class": "n02256656",
+    "label": "cicada",
+    "prompt": "A photo of cicada."
+  },
+  "317": {
+    "class": "n02259212",
+    "label": "leafhopper",
+    "prompt": "A photo of leafhopper."
+  },
+  "318": {
+    "class": "n02264363",
+    "label": "lacewing",
+    "prompt": "A photo of lacewing."
+  },
+  "319": {
+    "class": "n02268443",
+    "label": "dragonfly",
+    "prompt": "A photo of dragonfly."
+  },
+  "320": {
+    "class": "n02268853",
+    "label": "damselfly",
+    "prompt": "A photo of damselfly."
+  },
+  "321": {
+    "class": "n02276258",
+    "label": "admiral",
+    "prompt": "A photo of admiral."
+  },
+  "322": {
+    "class": "n02277742",
+    "label": "ringlet",
+    "prompt": "A photo of ringlet."
+  },
+  "323": {
+    "class": "n02279972",
+    "label": "monarch",
+    "prompt": "A photo of monarch."
+  },
+  "324": {
+    "class": "n02280649",
+    "label": "cabbage_butterfly",
+    "prompt": "A photo of cabbage butterfly."
+  },
+  "325": {
+    "class": "n02281406",
+    "label": "sulphur_butterfly",
+    "prompt": "A photo of sulphur butterfly."
+  },
+  "326": {
+    "class": "n02281787",
+    "label": "lycaenid",
+    "prompt": "A photo of lycaenid."
+  },
+  "327": {
+    "class": "n02317335",
+    "label": "starfish",
+    "prompt": "A photo of starfish."
+  },
+  "328": {
+    "class": "n02319095",
+    "label": "sea_urchin",
+    "prompt": "A photo of sea urchin."
+  },
+  "329": {
+    "class": "n02321529",
+    "label": "sea_cucumber",
+    "prompt": "A photo of sea cucumber."
+  },
+  "330": {
+    "class": "n02325366",
+    "label": "wood_rabbit",
+    "prompt": "A photo of wood rabbit."
+  },
+  "331": {
+    "class": "n02326432",
+    "label": "hare",
+    "prompt": "A photo of hare."
+  },
+  "332": {
+    "class": "n02328150",
+    "label": "Angora",
+    "prompt": "A photo of Angora."
+  },
+  "333": {
+    "class": "n02342885",
+    "label": "hamster",
+    "prompt": "A photo of hamster."
+  },
+  "334": {
+    "class": "n02346627",
+    "label": "porcupine",
+    "prompt": "A photo of porcupine."
+  },
+  "335": {
+    "class": "n02356798",
+    "label": "fox_squirrel",
+    "prompt": "A photo of fox squirrel."
+  },
+  "336": {
+    "class": "n02361337",
+    "label": "marmot",
+    "prompt": "A photo of marmot."
+  },
+  "337": {
+    "class": "n02363005",
+    "label": "beaver",
+    "prompt": "A photo of beaver."
+  },
+  "338": {
+    "class": "n02364673",
+    "label": "guinea_pig",
+    "prompt": "A photo of guinea pig."
+  },
+  "339": {
+    "class": "n02389026",
+    "label": "sorrel",
+    "prompt": "A photo of sorrel."
+  },
+  "340": {
+    "class": "n02391049",
+    "label": "zebra",
+    "prompt": "A photo of zebra."
+  },
+  "341": {
+    "class": "n02395406",
+    "label": "hog",
+    "prompt": "A photo of hog."
+  },
+  "342": {
+    "class": "n02396427",
+    "label": "wild_boar",
+    "prompt": "A photo of wild boar."
+  },
+  "343": {
+    "class": "n02397096",
+    "label": "warthog",
+    "prompt": "A photo of warthog."
+  },
+  "344": {
+    "class": "n02398521",
+    "label": "hippopotamus",
+    "prompt": "A photo of hippopotamus."
+  },
+  "345": {
+    "class": "n02403003",
+    "label": "ox",
+    "prompt": "A photo of ox."
+  },
+  "346": {
+    "class": "n02408429",
+    "label": "water_buffalo",
+    "prompt": "A photo of water buffalo."
+  },
+  "347": {
+    "class": "n02410509",
+    "label": "bison",
+    "prompt": "A photo of bison."
+  },
+  "348": {
+    "class": "n02412080",
+    "label": "ram",
+    "prompt": "A photo of ram."
+  },
+  "349": {
+    "class": "n02415577",
+    "label": "bighorn",
+    "prompt": "A photo of bighorn."
+  },
+  "350": {
+    "class": "n02417914",
+    "label": "ibex",
+    "prompt": "A photo of ibex."
+  },
+  "351": {
+    "class": "n02422106",
+    "label": "hartebeest",
+    "prompt": "A photo of hartebeest."
+  },
+  "352": {
+    "class": "n02422699",
+    "label": "impala",
+    "prompt": "A photo of impala."
+  },
+  "353": {
+    "class": "n02423022",
+    "label": "gazelle",
+    "prompt": "A photo of gazelle."
+  },
+  "354": {
+    "class": "n02437312",
+    "label": "Arabian_camel",
+    "prompt": "A photo of Arabian camel."
+  },
+  "355": {
+    "class": "n02437616",
+    "label": "llama",
+    "prompt": "A photo of llama."
+  },
+  "356": {
+    "class": "n02441942",
+    "label": "weasel",
+    "prompt": "A photo of weasel."
+  },
+  "357": {
+    "class": "n02442845",
+    "label": "mink",
+    "prompt": "A photo of mink."
+  },
+  "358": {
+    "class": "n02443114",
+    "label": "polecat",
+    "prompt": "A photo of polecat."
+  },
+  "359": {
+    "class": "n02443484",
+    "label": "black-footed_ferret",
+    "prompt": "A photo of black-footed ferret."
+  },
+  "360": {
+    "class": "n02444819",
+    "label": "otter",
+    "prompt": "A photo of otter."
+  },
+  "361": {
+    "class": "n02445715",
+    "label": "skunk",
+    "prompt": "A photo of skunk."
+  },
+  "362": {
+    "class": "n02447366",
+    "label": "badger",
+    "prompt": "A photo of badger."
+  },
+  "363": {
+    "class": "n02454379",
+    "label": "armadillo",
+    "prompt": "A photo of armadillo."
+  },
+  "364": {
+    "class": "n02457408",
+    "label": "three-toed_sloth",
+    "prompt": "A photo of three-toed sloth."
+  },
+  "365": {
+    "class": "n02480495",
+    "label": "orangutan",
+    "prompt": "A photo of orangutan."
+  },
+  "366": {
+    "class": "n02480855",
+    "label": "gorilla",
+    "prompt": "A photo of gorilla."
+  },
+  "367": {
+    "class": "n02481823",
+    "label": "chimpanzee",
+    "prompt": "A photo of chimpanzee."
+  },
+  "368": {
+    "class": "n02483362",
+    "label": "gibbon",
+    "prompt": "A photo of gibbon."
+  },
+  "369": {
+    "class": "n02483708",
+    "label": "siamang",
+    "prompt": "A photo of siamang."
+  },
+  "370": {
+    "class": "n02484975",
+    "label": "guenon",
+    "prompt": "A photo of guenon."
+  },
+  "371": {
+    "class": "n02486261",
+    "label": "patas",
+    "prompt": "A photo of patas."
+  },
+  "372": {
+    "class": "n02486410",
+    "label": "baboon",
+    "prompt": "A photo of baboon."
+  },
+  "373": {
+    "class": "n02487347",
+    "label": "macaque",
+    "prompt": "A photo of macaque."
+  },
+  "374": {
+    "class": "n02488291",
+    "label": "langur",
+    "prompt": "A photo of langur."
+  },
+  "375": {
+    "class": "n02488702",
+    "label": "colobus",
+    "prompt": "A photo of colobus."
+  },
+  "376": {
+    "class": "n02489166",
+    "label": "proboscis_monkey",
+    "prompt": "A photo of proboscis monkey."
+  },
+  "377": {
+    "class": "n02490219",
+    "label": "marmoset",
+    "prompt": "A photo of marmoset."
+  },
+  "378": {
+    "class": "n02492035",
+    "label": "capuchin",
+    "prompt": "A photo of capuchin."
+  },
+  "379": {
+    "class": "n02492660",
+    "label": "howler_monkey",
+    "prompt": "A photo of howler monkey."
+  },
+  "380": {
+    "class": "n02493509",
+    "label": "titi",
+    "prompt": "A photo of titi."
+  },
+  "381": {
+    "class": "n02493793",
+    "label": "spider_monkey",
+    "prompt": "A photo of spider monkey."
+  },
+  "382": {
+    "class": "n02494079",
+    "label": "squirrel_monkey",
+    "prompt": "A photo of squirrel monkey."
+  },
+  "383": {
+    "class": "n02497673",
+    "label": "Madagascar_cat",
+    "prompt": "A photo of Madagascar cat."
+  },
+  "384": {
+    "class": "n02500267",
+    "label": "indri",
+    "prompt": "A photo of indri."
+  },
+  "385": {
+    "class": "n02504013",
+    "label": "Indian_elephant",
+    "prompt": "A photo of Indian elephant."
+  },
+  "386": {
+    "class": "n02504458",
+    "label": "African_elephant",
+    "prompt": "A photo of African elephant."
+  },
+  "387": {
+    "class": "n02509815",
+    "label": "lesser_panda",
+    "prompt": "A photo of lesser panda."
+  },
+  "388": {
+    "class": "n02510455",
+    "label": "giant_panda",
+    "prompt": "A photo of giant panda."
+  },
+  "389": {
+    "class": "n02514041",
+    "label": "barracouta",
+    "prompt": "A photo of barracouta."
+  },
+  "390": {
+    "class": "n02526121",
+    "label": "eel",
+    "prompt": "A photo of eel."
+  },
+  "391": {
+    "class": "n02536864",
+    "label": "coho",
+    "prompt": "A photo of coho."
+  },
+  "392": {
+    "class": "n02606052",
+    "label": "rock_beauty",
+    "prompt": "A photo of rock beauty."
+  },
+  "393": {
+    "class": "n02607072",
+    "label": "anemone_fish",
+    "prompt": "A photo of anemone fish."
+  },
+  "394": {
+    "class": "n02640242",
+    "label": "sturgeon",
+    "prompt": "A photo of sturgeon."
+  },
+  "395": {
+    "class": "n02641379",
+    "label": "gar",
+    "prompt": "A photo of gar."
+  },
+  "396": {
+    "class": "n02643566",
+    "label": "lionfish",
+    "prompt": "A photo of lionfish."
+  },
+  "397": {
+    "class": "n02655020",
+    "label": "puffer",
+    "prompt": "A photo of puffer."
+  },
+  "398": {
+    "class": "n02666196",
+    "label": "abacus",
+    "prompt": "A photo of abacus."
+  },
+  "399": {
+    "class": "n02667093",
+    "label": "abaya",
+    "prompt": "A photo of abaya."
+  },
+  "400": {
+    "class": "n02669723",
+    "label": "academic_gown",
+    "prompt": "A photo of academic gown."
+  },
+  "401": {
+    "class": "n02672831",
+    "label": "accordion",
+    "prompt": "A photo of accordion."
+  },
+  "402": {
+    "class": "n02676566",
+    "label": "acoustic_guitar",
+    "prompt": "A photo of acoustic guitar."
+  },
+  "403": {
+    "class": "n02687172",
+    "label": "aircraft_carrier",
+    "prompt": "A photo of aircraft carrier."
+  },
+  "404": {
+    "class": "n02690373",
+    "label": "airliner",
+    "prompt": "A photo of airliner."
+  },
+  "405": {
+    "class": "n02692877",
+    "label": "airship",
+    "prompt": "A photo of airship."
+  },
+  "406": {
+    "class": "n02699494",
+    "label": "altar",
+    "prompt": "A photo of altar."
+  },
+  "407": {
+    "class": "n02701002",
+    "label": "ambulance",
+    "prompt": "A photo of ambulance."
+  },
+  "408": {
+    "class": "n02704792",
+    "label": "amphibian",
+    "prompt": "A photo of amphibian."
+  },
+  "409": {
+    "class": "n02708093",
+    "label": "analog_clock",
+    "prompt": "A photo of analog clock."
+  },
+  "410": {
+    "class": "n02727426",
+    "label": "apiary",
+    "prompt": "A photo of apiary."
+  },
+  "411": {
+    "class": "n02730930",
+    "label": "apron",
+    "prompt": "A photo of apron."
+  },
+  "412": {
+    "class": "n02747177",
+    "label": "ashcan",
+    "prompt": "A photo of ashcan."
+  },
+  "413": {
+    "class": "n02749479",
+    "label": "assault_rifle",
+    "prompt": "A photo of assault rifle."
+  },
+  "414": {
+    "class": "n02769748",
+    "label": "backpack",
+    "prompt": "A photo of backpack."
+  },
+  "415": {
+    "class": "n02776631",
+    "label": "bakery",
+    "prompt": "A photo of bakery."
+  },
+  "416": {
+    "class": "n02777292",
+    "label": "balance_beam",
+    "prompt": "A photo of balance beam."
+  },
+  "417": {
+    "class": "n02782093",
+    "label": "balloon",
+    "prompt": "A photo of balloon."
+  },
+  "418": {
+    "class": "n02783161",
+    "label": "ballpoint",
+    "prompt": "A photo of ballpoint."
+  },
+  "419": {
+    "class": "n02786058",
+    "label": "Band_Aid",
+    "prompt": "A photo of Band Aid."
+  },
+  "420": {
+    "class": "n02787622",
+    "label": "banjo",
+    "prompt": "A photo of banjo."
+  },
+  "421": {
+    "class": "n02788148",
+    "label": "bannister",
+    "prompt": "A photo of bannister."
+  },
+  "422": {
+    "class": "n02790996",
+    "label": "barbell",
+    "prompt": "A photo of barbell."
+  },
+  "423": {
+    "class": "n02791124",
+    "label": "barber_chair",
+    "prompt": "A photo of barber chair."
+  },
+  "424": {
+    "class": "n02791270",
+    "label": "barbershop",
+    "prompt": "A photo of barbershop."
+  },
+  "425": {
+    "class": "n02793495",
+    "label": "barn",
+    "prompt": "A photo of barn."
+  },
+  "426": {
+    "class": "n02794156",
+    "label": "barometer",
+    "prompt": "A photo of barometer."
+  },
+  "427": {
+    "class": "n02795169",
+    "label": "barrel",
+    "prompt": "A photo of barrel."
+  },
+  "428": {
+    "class": "n02797295",
+    "label": "barrow",
+    "prompt": "A photo of barrow."
+  },
+  "429": {
+    "class": "n02799071",
+    "label": "baseball",
+    "prompt": "A photo of baseball."
+  },
+  "430": {
+    "class": "n02802426",
+    "label": "basketball",
+    "prompt": "A photo of basketball."
+  },
+  "431": {
+    "class": "n02804414",
+    "label": "bassinet",
+    "prompt": "A photo of bassinet."
+  },
+  "432": {
+    "class": "n02804610",
+    "label": "bassoon",
+    "prompt": "A photo of bassoon."
+  },
+  "433": {
+    "class": "n02807133",
+    "label": "bathing_cap",
+    "prompt": "A photo of bathing cap."
+  },
+  "434": {
+    "class": "n02808304",
+    "label": "bath_towel",
+    "prompt": "A photo of bath towel."
+  },
+  "435": {
+    "class": "n02808440",
+    "label": "bathtub",
+    "prompt": "A photo of bathtub."
+  },
+  "436": {
+    "class": "n02814533",
+    "label": "beach_wagon",
+    "prompt": "A photo of beach wagon."
+  },
+  "437": {
+    "class": "n02814860",
+    "label": "beacon",
+    "prompt": "A photo of beacon."
+  },
+  "438": {
+    "class": "n02815834",
+    "label": "beaker",
+    "prompt": "A photo of beaker."
+  },
+  "439": {
+    "class": "n02817516",
+    "label": "bearskin",
+    "prompt": "A photo of bearskin."
+  },
+  "440": {
+    "class": "n02823428",
+    "label": "beer_bottle",
+    "prompt": "A photo of beer bottle."
+  },
+  "441": {
+    "class": "n02823750",
+    "label": "beer_glass",
+    "prompt": "A photo of beer glass."
+  },
+  "442": {
+    "class": "n02825657",
+    "label": "bell_cote",
+    "prompt": "A photo of bell cote."
+  },
+  "443": {
+    "class": "n02834397",
+    "label": "bib",
+    "prompt": "A photo of bib."
+  },
+  "444": {
+    "class": "n02835271",
+    "label": "bicycle-built-for-two",
+    "prompt": "A photo of bicycle-built-for-two."
+  },
+  "445": {
+    "class": "n02837789",
+    "label": "bikini",
+    "prompt": "A photo of bikini."
+  },
+  "446": {
+    "class": "n02840245",
+    "label": "binder",
+    "prompt": "A photo of binder."
+  },
+  "447": {
+    "class": "n02841315",
+    "label": "binoculars",
+    "prompt": "A photo of binoculars."
+  },
+  "448": {
+    "class": "n02843684",
+    "label": "birdhouse",
+    "prompt": "A photo of birdhouse."
+  },
+  "449": {
+    "class": "n02859443",
+    "label": "boathouse",
+    "prompt": "A photo of boathouse."
+  },
+  "450": {
+    "class": "n02860847",
+    "label": "bobsled",
+    "prompt": "A photo of bobsled."
+  },
+  "451": {
+    "class": "n02865351",
+    "label": "bolo_tie",
+    "prompt": "A photo of bolo tie."
+  },
+  "452": {
+    "class": "n02869837",
+    "label": "bonnet",
+    "prompt": "A photo of bonnet."
+  },
+  "453": {
+    "class": "n02870880",
+    "label": "bookcase",
+    "prompt": "A photo of bookcase."
+  },
+  "454": {
+    "class": "n02871525",
+    "label": "bookshop",
+    "prompt": "A photo of bookshop."
+  },
+  "455": {
+    "class": "n02877765",
+    "label": "bottlecap",
+    "prompt": "A photo of bottlecap."
+  },
+  "456": {
+    "class": "n02879718",
+    "label": "bow",
+    "prompt": "A photo of bow."
+  },
+  "457": {
+    "class": "n02883205",
+    "label": "bow_tie",
+    "prompt": "A photo of bow tie."
+  },
+  "458": {
+    "class": "n02892201",
+    "label": "brass",
+    "prompt": "A photo of brass."
+  },
+  "459": {
+    "class": "n02892767",
+    "label": "brassiere",
+    "prompt": "A photo of brassiere."
+  },
+  "460": {
+    "class": "n02894605",
+    "label": "breakwater",
+    "prompt": "A photo of breakwater."
+  },
+  "461": {
+    "class": "n02895154",
+    "label": "breastplate",
+    "prompt": "A photo of breastplate."
+  },
+  "462": {
+    "class": "n02906734",
+    "label": "broom",
+    "prompt": "A photo of broom."
+  },
+  "463": {
+    "class": "n02909870",
+    "label": "bucket",
+    "prompt": "A photo of bucket."
+  },
+  "464": {
+    "class": "n02910353",
+    "label": "buckle",
+    "prompt": "A photo of buckle."
+  },
+  "465": {
+    "class": "n02916936",
+    "label": "bulletproof_vest",
+    "prompt": "A photo of bulletproof vest."
+  },
+  "466": {
+    "class": "n02917067",
+    "label": "bullet_train",
+    "prompt": "A photo of bullet train."
+  },
+  "467": {
+    "class": "n02927161",
+    "label": "butcher_shop",
+    "prompt": "A photo of butcher shop."
+  },
+  "468": {
+    "class": "n02930766",
+    "label": "cab",
+    "prompt": "A photo of cab."
+  },
+  "469": {
+    "class": "n02939185",
+    "label": "caldron",
+    "prompt": "A photo of caldron."
+  },
+  "470": {
+    "class": "n02948072",
+    "label": "candle",
+    "prompt": "A photo of candle."
+  },
+  "471": {
+    "class": "n02950826",
+    "label": "cannon",
+    "prompt": "A photo of cannon."
+  },
+  "472": {
+    "class": "n02951358",
+    "label": "canoe",
+    "prompt": "A photo of canoe."
+  },
+  "473": {
+    "class": "n02951585",
+    "label": "can_opener",
+    "prompt": "A photo of can opener."
+  },
+  "474": {
+    "class": "n02963159",
+    "label": "cardigan",
+    "prompt": "A photo of cardigan."
+  },
+  "475": {
+    "class": "n02965783",
+    "label": "car_mirror",
+    "prompt": "A photo of car mirror."
+  },
+  "476": {
+    "class": "n02966193",
+    "label": "carousel",
+    "prompt": "A photo of carousel."
+  },
+  "477": {
+    "class": "n02966687",
+    "label": "carpenter's_kit",
+    "prompt": "A photo of carpenter's kit."
+  },
+  "478": {
+    "class": "n02971356",
+    "label": "carton",
+    "prompt": "A photo of carton."
+  },
+  "479": {
+    "class": "n02974003",
+    "label": "car_wheel",
+    "prompt": "A photo of car wheel."
+  },
+  "480": {
+    "class": "n02977058",
+    "label": "cash_machine",
+    "prompt": "A photo of cash machine."
+  },
+  "481": {
+    "class": "n02978881",
+    "label": "cassette",
+    "prompt": "A photo of cassette."
+  },
+  "482": {
+    "class": "n02979186",
+    "label": "cassette_player",
+    "prompt": "A photo of cassette player."
+  },
+  "483": {
+    "class": "n02980441",
+    "label": "castle",
+    "prompt": "A photo of castle."
+  },
+  "484": {
+    "class": "n02981792",
+    "label": "catamaran",
+    "prompt": "A photo of catamaran."
+  },
+  "485": {
+    "class": "n02988304",
+    "label": "CD_player",
+    "prompt": "A photo of CD player."
+  },
+  "486": {
+    "class": "n02992211",
+    "label": "cello",
+    "prompt": "A photo of cello."
+  },
+  "487": {
+    "class": "n02992529",
+    "label": "cellular_telephone",
+    "prompt": "A photo of cellular telephone."
+  },
+  "488": {
+    "class": "n02999410",
+    "label": "chain",
+    "prompt": "A photo of chain."
+  },
+  "489": {
+    "class": "n03000134",
+    "label": "chainlink_fence",
+    "prompt": "A photo of chainlink fence."
+  },
+  "490": {
+    "class": "n03000247",
+    "label": "chain_mail",
+    "prompt": "A photo of chain mail."
+  },
+  "491": {
+    "class": "n03000684",
+    "label": "chain_saw",
+    "prompt": "A photo of chain saw."
+  },
+  "492": {
+    "class": "n03014705",
+    "label": "chest",
+    "prompt": "A photo of chest."
+  },
+  "493": {
+    "class": "n03016953",
+    "label": "chiffonier",
+    "prompt": "A photo of chiffonier."
+  },
+  "494": {
+    "class": "n03017168",
+    "label": "chime",
+    "prompt": "A photo of chime."
+  },
+  "495": {
+    "class": "n03018349",
+    "label": "china_cabinet",
+    "prompt": "A photo of china cabinet."
+  },
+  "496": {
+    "class": "n03026506",
+    "label": "Christmas_stocking",
+    "prompt": "A photo of Christmas stocking."
+  },
+  "497": {
+    "class": "n03028079",
+    "label": "church",
+    "prompt": "A photo of church."
+  },
+  "498": {
+    "class": "n03032252",
+    "label": "cinema",
+    "prompt": "A photo of cinema."
+  },
+  "499": {
+    "class": "n03041632",
+    "label": "cleaver",
+    "prompt": "A photo of cleaver."
+  },
+  "500": {
+    "class": "n03042490",
+    "label": "cliff_dwelling",
+    "prompt": "A photo of cliff dwelling."
+  },
+  "501": {
+    "class": "n03045698",
+    "label": "cloak",
+    "prompt": "A photo of cloak."
+  },
+  "502": {
+    "class": "n03047690",
+    "label": "clog",
+    "prompt": "A photo of clog."
+  },
+  "503": {
+    "class": "n03062245",
+    "label": "cocktail_shaker",
+    "prompt": "A photo of cocktail shaker."
+  },
+  "504": {
+    "class": "n03063599",
+    "label": "coffee_mug",
+    "prompt": "A photo of coffee mug."
+  },
+  "505": {
+    "class": "n03063689",
+    "label": "coffeepot",
+    "prompt": "A photo of coffeepot."
+  },
+  "506": {
+    "class": "n03065424",
+    "label": "coil",
+    "prompt": "A photo of coil."
+  },
+  "507": {
+    "class": "n03075370",
+    "label": "combination_lock",
+    "prompt": "A photo of combination lock."
+  },
+  "508": {
+    "class": "n03085013",
+    "label": "computer_keyboard",
+    "prompt": "A photo of computer keyboard."
+  },
+  "509": {
+    "class": "n03089624",
+    "label": "confectionery",
+    "prompt": "A photo of confectionery."
+  },
+  "510": {
+    "class": "n03095699",
+    "label": "container_ship",
+    "prompt": "A photo of container ship."
+  },
+  "511": {
+    "class": "n03100240",
+    "label": "convertible",
+    "prompt": "A photo of convertible."
+  },
+  "512": {
+    "class": "n03109150",
+    "label": "corkscrew",
+    "prompt": "A photo of corkscrew."
+  },
+  "513": {
+    "class": "n03110669",
+    "label": "cornet",
+    "prompt": "A photo of cornet."
+  },
+  "514": {
+    "class": "n03124043",
+    "label": "cowboy_boot",
+    "prompt": "A photo of cowboy boot."
+  },
+  "515": {
+    "class": "n03124170",
+    "label": "cowboy_hat",
+    "prompt": "A photo of cowboy hat."
+  },
+  "516": {
+    "class": "n03125729",
+    "label": "cradle",
+    "prompt": "A photo of cradle."
+  },
+  "517": {
+    "class": "n03126707",
+    "label": "crane",
+    "prompt": "A photo of crane."
+  },
+  "518": {
+    "class": "n03127747",
+    "label": "crash_helmet",
+    "prompt": "A photo of crash helmet."
+  },
+  "519": {
+    "class": "n03127925",
+    "label": "crate",
+    "prompt": "A photo of crate."
+  },
+  "520": {
+    "class": "n03131574",
+    "label": "crib",
+    "prompt": "A photo of crib."
+  },
+  "521": {
+    "class": "n03133878",
+    "label": "Crock_Pot",
+    "prompt": "A photo of Crock Pot."
+  },
+  "522": {
+    "class": "n03134739",
+    "label": "croquet_ball",
+    "prompt": "A photo of croquet ball."
+  },
+  "523": {
+    "class": "n03141823",
+    "label": "crutch",
+    "prompt": "A photo of crutch."
+  },
+  "524": {
+    "class": "n03146219",
+    "label": "cuirass",
+    "prompt": "A photo of cuirass."
+  },
+  "525": {
+    "class": "n03160309",
+    "label": "dam",
+    "prompt": "A photo of dam."
+  },
+  "526": {
+    "class": "n03179701",
+    "label": "desk",
+    "prompt": "A photo of desk."
+  },
+  "527": {
+    "class": "n03180011",
+    "label": "desktop_computer",
+    "prompt": "A photo of desktop computer."
+  },
+  "528": {
+    "class": "n03187595",
+    "label": "dial_telephone",
+    "prompt": "A photo of dial telephone."
+  },
+  "529": {
+    "class": "n03188531",
+    "label": "diaper",
+    "prompt": "A photo of diaper."
+  },
+  "530": {
+    "class": "n03196217",
+    "label": "digital_clock",
+    "prompt": "A photo of digital clock."
+  },
+  "531": {
+    "class": "n03197337",
+    "label": "digital_watch",
+    "prompt": "A photo of digital watch."
+  },
+  "532": {
+    "class": "n03201208",
+    "label": "dining_table",
+    "prompt": "A photo of dining table."
+  },
+  "533": {
+    "class": "n03207743",
+    "label": "dishrag",
+    "prompt": "A photo of dishrag."
+  },
+  "534": {
+    "class": "n03207941",
+    "label": "dishwasher",
+    "prompt": "A photo of dishwasher."
+  },
+  "535": {
+    "class": "n03208938",
+    "label": "disk_brake",
+    "prompt": "A photo of disk brake."
+  },
+  "536": {
+    "class": "n03216828",
+    "label": "dock",
+    "prompt": "A photo of dock."
+  },
+  "537": {
+    "class": "n03218198",
+    "label": "dogsled",
+    "prompt": "A photo of dogsled."
+  },
+  "538": {
+    "class": "n03220513",
+    "label": "dome",
+    "prompt": "A photo of dome."
+  },
+  "539": {
+    "class": "n03223299",
+    "label": "doormat",
+    "prompt": "A photo of doormat."
+  },
+  "540": {
+    "class": "n03240683",
+    "label": "drilling_platform",
+    "prompt": "A photo of drilling platform."
+  },
+  "541": {
+    "class": "n03249569",
+    "label": "drum",
+    "prompt": "A photo of drum."
+  },
+  "542": {
+    "class": "n03250847",
+    "label": "drumstick",
+    "prompt": "A photo of drumstick."
+  },
+  "543": {
+    "class": "n03255030",
+    "label": "dumbbell",
+    "prompt": "A photo of dumbbell."
+  },
+  "544": {
+    "class": "n03259280",
+    "label": "Dutch_oven",
+    "prompt": "A photo of Dutch oven."
+  },
+  "545": {
+    "class": "n03271574",
+    "label": "electric_fan",
+    "prompt": "A photo of electric fan."
+  },
+  "546": {
+    "class": "n03272010",
+    "label": "electric_guitar",
+    "prompt": "A photo of electric guitar."
+  },
+  "547": {
+    "class": "n03272562",
+    "label": "electric_locomotive",
+    "prompt": "A photo of electric locomotive."
+  },
+  "548": {
+    "class": "n03290653",
+    "label": "entertainment_center",
+    "prompt": "A photo of entertainment center."
+  },
+  "549": {
+    "class": "n03291819",
+    "label": "envelope",
+    "prompt": "A photo of envelope."
+  },
+  "550": {
+    "class": "n03297495",
+    "label": "espresso_maker",
+    "prompt": "A photo of espresso maker."
+  },
+  "551": {
+    "class": "n03314780",
+    "label": "face_powder",
+    "prompt": "A photo of face powder."
+  },
+  "552": {
+    "class": "n03325584",
+    "label": "feather_boa",
+    "prompt": "A photo of feather boa."
+  },
+  "553": {
+    "class": "n03337140",
+    "label": "file",
+    "prompt": "A photo of file."
+  },
+  "554": {
+    "class": "n03344393",
+    "label": "fireboat",
+    "prompt": "A photo of fireboat."
+  },
+  "555": {
+    "class": "n03345487",
+    "label": "fire_engine",
+    "prompt": "A photo of fire engine."
+  },
+  "556": {
+    "class": "n03347037",
+    "label": "fire_screen",
+    "prompt": "A photo of fire screen."
+  },
+  "557": {
+    "class": "n03355925",
+    "label": "flagpole",
+    "prompt": "A photo of flagpole."
+  },
+  "558": {
+    "class": "n03372029",
+    "label": "flute",
+    "prompt": "A photo of flute."
+  },
+  "559": {
+    "class": "n03376595",
+    "label": "folding_chair",
+    "prompt": "A photo of folding chair."
+  },
+  "560": {
+    "class": "n03379051",
+    "label": "football_helmet",
+    "prompt": "A photo of football helmet."
+  },
+  "561": {
+    "class": "n03384352",
+    "label": "forklift",
+    "prompt": "A photo of forklift."
+  },
+  "562": {
+    "class": "n03388043",
+    "label": "fountain",
+    "prompt": "A photo of fountain."
+  },
+  "563": {
+    "class": "n03388183",
+    "label": "fountain_pen",
+    "prompt": "A photo of fountain pen."
+  },
+  "564": {
+    "class": "n03388549",
+    "label": "four-poster",
+    "prompt": "A photo of four-poster."
+  },
+  "565": {
+    "class": "n03393912",
+    "label": "freight_car",
+    "prompt": "A photo of freight car."
+  },
+  "566": {
+    "class": "n03394916",
+    "label": "French_horn",
+    "prompt": "A photo of French horn."
+  },
+  "567": {
+    "class": "n03400231",
+    "label": "frying_pan",
+    "prompt": "A photo of frying pan."
+  },
+  "568": {
+    "class": "n03404251",
+    "label": "fur_coat",
+    "prompt": "A photo of fur coat."
+  },
+  "569": {
+    "class": "n03417042",
+    "label": "garbage_truck",
+    "prompt": "A photo of garbage truck."
+  },
+  "570": {
+    "class": "n03424325",
+    "label": "gasmask",
+    "prompt": "A photo of gasmask."
+  },
+  "571": {
+    "class": "n03425413",
+    "label": "gas_pump",
+    "prompt": "A photo of gas pump."
+  },
+  "572": {
+    "class": "n03443371",
+    "label": "goblet",
+    "prompt": "A photo of goblet."
+  },
+  "573": {
+    "class": "n03444034",
+    "label": "go-kart",
+    "prompt": "A photo of go-kart."
+  },
+  "574": {
+    "class": "n03445777",
+    "label": "golf_ball",
+    "prompt": "A photo of golf ball."
+  },
+  "575": {
+    "class": "n03445924",
+    "label": "golfcart",
+    "prompt": "A photo of golfcart."
+  },
+  "576": {
+    "class": "n03447447",
+    "label": "gondola",
+    "prompt": "A photo of gondola."
+  },
+  "577": {
+    "class": "n03447721",
+    "label": "gong",
+    "prompt": "A photo of gong."
+  },
+  "578": {
+    "class": "n03450230",
+    "label": "gown",
+    "prompt": "A photo of gown."
+  },
+  "579": {
+    "class": "n03452741",
+    "label": "grand_piano",
+    "prompt": "A photo of grand piano."
+  },
+  "580": {
+    "class": "n03457902",
+    "label": "greenhouse",
+    "prompt": "A photo of greenhouse."
+  },
+  "581": {
+    "class": "n03459775",
+    "label": "grille",
+    "prompt": "A photo of grille."
+  },
+  "582": {
+    "class": "n03461385",
+    "label": "grocery_store",
+    "prompt": "A photo of grocery store."
+  },
+  "583": {
+    "class": "n03467068",
+    "label": "guillotine",
+    "prompt": "A photo of guillotine."
+  },
+  "584": {
+    "class": "n03476684",
+    "label": "hair_slide",
+    "prompt": "A photo of hair slide."
+  },
+  "585": {
+    "class": "n03476991",
+    "label": "hair_spray",
+    "prompt": "A photo of hair spray."
+  },
+  "586": {
+    "class": "n03478589",
+    "label": "half_track",
+    "prompt": "A photo of half track."
+  },
+  "587": {
+    "class": "n03481172",
+    "label": "hammer",
+    "prompt": "A photo of hammer."
+  },
+  "588": {
+    "class": "n03482405",
+    "label": "hamper",
+    "prompt": "A photo of hamper."
+  },
+  "589": {
+    "class": "n03483316",
+    "label": "hand_blower",
+    "prompt": "A photo of hand blower."
+  },
+  "590": {
+    "class": "n03485407",
+    "label": "hand-held_computer",
+    "prompt": "A photo of hand-held computer."
+  },
+  "591": {
+    "class": "n03485794",
+    "label": "handkerchief",
+    "prompt": "A photo of handkerchief."
+  },
+  "592": {
+    "class": "n03492542",
+    "label": "hard_disc",
+    "prompt": "A photo of hard disc."
+  },
+  "593": {
+    "class": "n03494278",
+    "label": "harmonica",
+    "prompt": "A photo of harmonica."
+  },
+  "594": {
+    "class": "n03495258",
+    "label": "harp",
+    "prompt": "A photo of harp."
+  },
+  "595": {
+    "class": "n03496892",
+    "label": "harvester",
+    "prompt": "A photo of harvester."
+  },
+  "596": {
+    "class": "n03498962",
+    "label": "hatchet",
+    "prompt": "A photo of hatchet."
+  },
+  "597": {
+    "class": "n03527444",
+    "label": "holster",
+    "prompt": "A photo of holster."
+  },
+  "598": {
+    "class": "n03529860",
+    "label": "home_theater",
+    "prompt": "A photo of home theater."
+  },
+  "599": {
+    "class": "n03530642",
+    "label": "honeycomb",
+    "prompt": "A photo of honeycomb."
+  },
+  "600": {
+    "class": "n03532672",
+    "label": "hook",
+    "prompt": "A photo of hook."
+  },
+  "601": {
+    "class": "n03534580",
+    "label": "hoopskirt",
+    "prompt": "A photo of hoopskirt."
+  },
+  "602": {
+    "class": "n03535780",
+    "label": "horizontal_bar",
+    "prompt": "A photo of horizontal bar."
+  },
+  "603": {
+    "class": "n03538406",
+    "label": "horse_cart",
+    "prompt": "A photo of horse cart."
+  },
+  "604": {
+    "class": "n03544143",
+    "label": "hourglass",
+    "prompt": "A photo of hourglass."
+  },
+  "605": {
+    "class": "n03584254",
+    "label": "iPod",
+    "prompt": "A photo of iPod."
+  },
+  "606": {
+    "class": "n03584829",
+    "label": "iron",
+    "prompt": "A photo of iron."
+  },
+  "607": {
+    "class": "n03590841",
+    "label": "jack-o'-lantern",
+    "prompt": "A photo of jack-o'-lantern."
+  },
+  "608": {
+    "class": "n03594734",
+    "label": "jean",
+    "prompt": "A photo of jean."
+  },
+  "609": {
+    "class": "n03594945",
+    "label": "jeep",
+    "prompt": "A photo of jeep."
+  },
+  "610": {
+    "class": "n03595614",
+    "label": "jersey",
+    "prompt": "A photo of jersey."
+  },
+  "611": {
+    "class": "n03598930",
+    "label": "jigsaw_puzzle",
+    "prompt": "A photo of jigsaw puzzle."
+  },
+  "612": {
+    "class": "n03599486",
+    "label": "jinrikisha",
+    "prompt": "A photo of jinrikisha."
+  },
+  "613": {
+    "class": "n03602883",
+    "label": "joystick",
+    "prompt": "A photo of joystick."
+  },
+  "614": {
+    "class": "n03617480",
+    "label": "kimono",
+    "prompt": "A photo of kimono."
+  },
+  "615": {
+    "class": "n03623198",
+    "label": "knee_pad",
+    "prompt": "A photo of knee pad."
+  },
+  "616": {
+    "class": "n03627232",
+    "label": "knot",
+    "prompt": "A photo of knot."
+  },
+  "617": {
+    "class": "n03630383",
+    "label": "lab_coat",
+    "prompt": "A photo of lab coat."
+  },
+  "618": {
+    "class": "n03633091",
+    "label": "ladle",
+    "prompt": "A photo of ladle."
+  },
+  "619": {
+    "class": "n03637318",
+    "label": "lampshade",
+    "prompt": "A photo of lampshade."
+  },
+  "620": {
+    "class": "n03642806",
+    "label": "laptop",
+    "prompt": "A photo of laptop."
+  },
+  "621": {
+    "class": "n03649909",
+    "label": "lawn_mower",
+    "prompt": "A photo of lawn mower."
+  },
+  "622": {
+    "class": "n03657121",
+    "label": "lens_cap",
+    "prompt": "A photo of lens cap."
+  },
+  "623": {
+    "class": "n03658185",
+    "label": "letter_opener",
+    "prompt": "A photo of letter opener."
+  },
+  "624": {
+    "class": "n03661043",
+    "label": "library",
+    "prompt": "A photo of library."
+  },
+  "625": {
+    "class": "n03662601",
+    "label": "lifeboat",
+    "prompt": "A photo of lifeboat."
+  },
+  "626": {
+    "class": "n03666591",
+    "label": "lighter",
+    "prompt": "A photo of lighter."
+  },
+  "627": {
+    "class": "n03670208",
+    "label": "limousine",
+    "prompt": "A photo of limousine."
+  },
+  "628": {
+    "class": "n03673027",
+    "label": "liner",
+    "prompt": "A photo of liner."
+  },
+  "629": {
+    "class": "n03676483",
+    "label": "lipstick",
+    "prompt": "A photo of lipstick."
+  },
+  "630": {
+    "class": "n03680355",
+    "label": "Loafer",
+    "prompt": "A photo of Loafer."
+  },
+  "631": {
+    "class": "n03690938",
+    "label": "lotion",
+    "prompt": "A photo of lotion."
+  },
+  "632": {
+    "class": "n03691459",
+    "label": "loudspeaker",
+    "prompt": "A photo of loudspeaker."
+  },
+  "633": {
+    "class": "n03692522",
+    "label": "loupe",
+    "prompt": "A photo of loupe."
+  },
+  "634": {
+    "class": "n03697007",
+    "label": "lumbermill",
+    "prompt": "A photo of lumbermill."
+  },
+  "635": {
+    "class": "n03706229",
+    "label": "magnetic_compass",
+    "prompt": "A photo of magnetic compass."
+  },
+  "636": {
+    "class": "n03709823",
+    "label": "mailbag",
+    "prompt": "A photo of mailbag."
+  },
+  "637": {
+    "class": "n03710193",
+    "label": "mailbox",
+    "prompt": "A photo of mailbox."
+  },
+  "638": {
+    "class": "n03710637",
+    "label": "maillot",
+    "prompt": "A photo of maillot."
+  },
+  "639": {
+    "class": "n03710721",
+    "label": "maillot",
+    "prompt": "A photo of maillot."
+  },
+  "640": {
+    "class": "n03717622",
+    "label": "manhole_cover",
+    "prompt": "A photo of manhole cover."
+  },
+  "641": {
+    "class": "n03720891",
+    "label": "maraca",
+    "prompt": "A photo of maraca."
+  },
+  "642": {
+    "class": "n03721384",
+    "label": "marimba",
+    "prompt": "A photo of marimba."
+  },
+  "643": {
+    "class": "n03724870",
+    "label": "mask",
+    "prompt": "A photo of mask."
+  },
+  "644": {
+    "class": "n03729826",
+    "label": "matchstick",
+    "prompt": "A photo of matchstick."
+  },
+  "645": {
+    "class": "n03733131",
+    "label": "maypole",
+    "prompt": "A photo of maypole."
+  },
+  "646": {
+    "class": "n03733281",
+    "label": "maze",
+    "prompt": "A photo of maze."
+  },
+  "647": {
+    "class": "n03733805",
+    "label": "measuring_cup",
+    "prompt": "A photo of measuring cup."
+  },
+  "648": {
+    "class": "n03742115",
+    "label": "medicine_chest",
+    "prompt": "A photo of medicine chest."
+  },
+  "649": {
+    "class": "n03743016",
+    "label": "megalith",
+    "prompt": "A photo of megalith."
+  },
+  "650": {
+    "class": "n03759954",
+    "label": "microphone",
+    "prompt": "A photo of microphone."
+  },
+  "651": {
+    "class": "n03761084",
+    "label": "microwave",
+    "prompt": "A photo of microwave."
+  },
+  "652": {
+    "class": "n03763968",
+    "label": "military_uniform",
+    "prompt": "A photo of military uniform."
+  },
+  "653": {
+    "class": "n03764736",
+    "label": "milk_can",
+    "prompt": "A photo of milk can."
+  },
+  "654": {
+    "class": "n03769881",
+    "label": "minibus",
+    "prompt": "A photo of minibus."
+  },
+  "655": {
+    "class": "n03770439",
+    "label": "miniskirt",
+    "prompt": "A photo of miniskirt."
+  },
+  "656": {
+    "class": "n03770679",
+    "label": "minivan",
+    "prompt": "A photo of minivan."
+  },
+  "657": {
+    "class": "n03773504",
+    "label": "missile",
+    "prompt": "A photo of missile."
+  },
+  "658": {
+    "class": "n03775071",
+    "label": "mitten",
+    "prompt": "A photo of mitten."
+  },
+  "659": {
+    "class": "n03775546",
+    "label": "mixing_bowl",
+    "prompt": "A photo of mixing bowl."
+  },
+  "660": {
+    "class": "n03776460",
+    "label": "mobile_home",
+    "prompt": "A photo of mobile home."
+  },
+  "661": {
+    "class": "n03777568",
+    "label": "Model_T",
+    "prompt": "A photo of Model T."
+  },
+  "662": {
+    "class": "n03777754",
+    "label": "modem",
+    "prompt": "A photo of modem."
+  },
+  "663": {
+    "class": "n03781244",
+    "label": "monastery",
+    "prompt": "A photo of monastery."
+  },
+  "664": {
+    "class": "n03782006",
+    "label": "monitor",
+    "prompt": "A photo of monitor."
+  },
+  "665": {
+    "class": "n03785016",
+    "label": "moped",
+    "prompt": "A photo of moped."
+  },
+  "666": {
+    "class": "n03786901",
+    "label": "mortar",
+    "prompt": "A photo of mortar."
+  },
+  "667": {
+    "class": "n03787032",
+    "label": "mortarboard",
+    "prompt": "A photo of mortarboard."
+  },
+  "668": {
+    "class": "n03788195",
+    "label": "mosque",
+    "prompt": "A photo of mosque."
+  },
+  "669": {
+    "class": "n03788365",
+    "label": "mosquito_net",
+    "prompt": "A photo of mosquito net."
+  },
+  "670": {
+    "class": "n03791053",
+    "label": "motor_scooter",
+    "prompt": "A photo of motor scooter."
+  },
+  "671": {
+    "class": "n03792782",
+    "label": "mountain_bike",
+    "prompt": "A photo of mountain bike."
+  },
+  "672": {
+    "class": "n03792972",
+    "label": "mountain_tent",
+    "prompt": "A photo of mountain tent."
+  },
+  "673": {
+    "class": "n03793489",
+    "label": "mouse",
+    "prompt": "A photo of mouse."
+  },
+  "674": {
+    "class": "n03794056",
+    "label": "mousetrap",
+    "prompt": "A photo of mousetrap."
+  },
+  "675": {
+    "class": "n03796401",
+    "label": "moving_van",
+    "prompt": "A photo of moving van."
+  },
+  "676": {
+    "class": "n03803284",
+    "label": "muzzle",
+    "prompt": "A photo of muzzle."
+  },
+  "677": {
+    "class": "n03804744",
+    "label": "nail",
+    "prompt": "A photo of nail."
+  },
+  "678": {
+    "class": "n03814639",
+    "label": "neck_brace",
+    "prompt": "A photo of neck brace."
+  },
+  "679": {
+    "class": "n03814906",
+    "label": "necklace",
+    "prompt": "A photo of necklace."
+  },
+  "680": {
+    "class": "n03825788",
+    "label": "nipple",
+    "prompt": "A photo of nipple."
+  },
+  "681": {
+    "class": "n03832673",
+    "label": "notebook",
+    "prompt": "A photo of notebook."
+  },
+  "682": {
+    "class": "n03837869",
+    "label": "obelisk",
+    "prompt": "A photo of obelisk."
+  },
+  "683": {
+    "class": "n03838899",
+    "label": "oboe",
+    "prompt": "A photo of oboe."
+  },
+  "684": {
+    "class": "n03840681",
+    "label": "ocarina",
+    "prompt": "A photo of ocarina."
+  },
+  "685": {
+    "class": "n03841143",
+    "label": "odometer",
+    "prompt": "A photo of odometer."
+  },
+  "686": {
+    "class": "n03843555",
+    "label": "oil_filter",
+    "prompt": "A photo of oil filter."
+  },
+  "687": {
+    "class": "n03854065",
+    "label": "organ",
+    "prompt": "A photo of organ."
+  },
+  "688": {
+    "class": "n03857828",
+    "label": "oscilloscope",
+    "prompt": "A photo of oscilloscope."
+  },
+  "689": {
+    "class": "n03866082",
+    "label": "overskirt",
+    "prompt": "A photo of overskirt."
+  },
+  "690": {
+    "class": "n03868242",
+    "label": "oxcart",
+    "prompt": "A photo of oxcart."
+  },
+  "691": {
+    "class": "n03868863",
+    "label": "oxygen_mask",
+    "prompt": "A photo of oxygen mask."
+  },
+  "692": {
+    "class": "n03871628",
+    "label": "packet",
+    "prompt": "A photo of packet."
+  },
+  "693": {
+    "class": "n03873416",
+    "label": "paddle",
+    "prompt": "A photo of paddle."
+  },
+  "694": {
+    "class": "n03874293",
+    "label": "paddlewheel",
+    "prompt": "A photo of paddlewheel."
+  },
+  "695": {
+    "class": "n03874599",
+    "label": "padlock",
+    "prompt": "A photo of padlock."
+  },
+  "696": {
+    "class": "n03876231",
+    "label": "paintbrush",
+    "prompt": "A photo of paintbrush."
+  },
+  "697": {
+    "class": "n03877472",
+    "label": "pajama",
+    "prompt": "A photo of pajama."
+  },
+  "698": {
+    "class": "n03877845",
+    "label": "palace",
+    "prompt": "A photo of palace."
+  },
+  "699": {
+    "class": "n03884397",
+    "label": "panpipe",
+    "prompt": "A photo of panpipe."
+  },
+  "700": {
+    "class": "n03887697",
+    "label": "paper_towel",
+    "prompt": "A photo of paper towel."
+  },
+  "701": {
+    "class": "n03888257",
+    "label": "parachute",
+    "prompt": "A photo of parachute."
+  },
+  "702": {
+    "class": "n03888605",
+    "label": "parallel_bars",
+    "prompt": "A photo of parallel bars."
+  },
+  "703": {
+    "class": "n03891251",
+    "label": "park_bench",
+    "prompt": "A photo of park bench."
+  },
+  "704": {
+    "class": "n03891332",
+    "label": "parking_meter",
+    "prompt": "A photo of parking meter."
+  },
+  "705": {
+    "class": "n03895866",
+    "label": "passenger_car",
+    "prompt": "A photo of passenger car."
+  },
+  "706": {
+    "class": "n03899768",
+    "label": "patio",
+    "prompt": "A photo of patio."
+  },
+  "707": {
+    "class": "n03902125",
+    "label": "pay-phone",
+    "prompt": "A photo of pay-phone."
+  },
+  "708": {
+    "class": "n03903868",
+    "label": "pedestal",
+    "prompt": "A photo of pedestal."
+  },
+  "709": {
+    "class": "n03908618",
+    "label": "pencil_box",
+    "prompt": "A photo of pencil box."
+  },
+  "710": {
+    "class": "n03908714",
+    "label": "pencil_sharpener",
+    "prompt": "A photo of pencil sharpener."
+  },
+  "711": {
+    "class": "n03916031",
+    "label": "perfume",
+    "prompt": "A photo of perfume."
+  },
+  "712": {
+    "class": "n03920288",
+    "label": "Petri_dish",
+    "prompt": "A photo of Petri dish."
+  },
+  "713": {
+    "class": "n03924679",
+    "label": "photocopier",
+    "prompt": "A photo of photocopier."
+  },
+  "714": {
+    "class": "n03929660",
+    "label": "pick",
+    "prompt": "A photo of pick."
+  },
+  "715": {
+    "class": "n03929855",
+    "label": "pickelhaube",
+    "prompt": "A photo of pickelhaube."
+  },
+  "716": {
+    "class": "n03930313",
+    "label": "picket_fence",
+    "prompt": "A photo of picket fence."
+  },
+  "717": {
+    "class": "n03930630",
+    "label": "pickup",
+    "prompt": "A photo of pickup."
+  },
+  "718": {
+    "class": "n03933933",
+    "label": "pier",
+    "prompt": "A photo of pier."
+  },
+  "719": {
+    "class": "n03935335",
+    "label": "piggy_bank",
+    "prompt": "A photo of piggy bank."
+  },
+  "720": {
+    "class": "n03937543",
+    "label": "pill_bottle",
+    "prompt": "A photo of pill bottle."
+  },
+  "721": {
+    "class": "n03938244",
+    "label": "pillow",
+    "prompt": "A photo of pillow."
+  },
+  "722": {
+    "class": "n03942813",
+    "label": "ping-pong_ball",
+    "prompt": "A photo of ping-pong ball."
+  },
+  "723": {
+    "class": "n03944341",
+    "label": "pinwheel",
+    "prompt": "A photo of pinwheel."
+  },
+  "724": {
+    "class": "n03947888",
+    "label": "pirate",
+    "prompt": "A photo of pirate."
+  },
+  "725": {
+    "class": "n03950228",
+    "label": "pitcher",
+    "prompt": "A photo of pitcher."
+  },
+  "726": {
+    "class": "n03954731",
+    "label": "plane",
+    "prompt": "A photo of plane."
+  },
+  "727": {
+    "class": "n03956157",
+    "label": "planetarium",
+    "prompt": "A photo of planetarium."
+  },
+  "728": {
+    "class": "n03958227",
+    "label": "plastic_bag",
+    "prompt": "A photo of plastic bag."
+  },
+  "729": {
+    "class": "n03961711",
+    "label": "plate_rack",
+    "prompt": "A photo of plate rack."
+  },
+  "730": {
+    "class": "n03967562",
+    "label": "plow",
+    "prompt": "A photo of plow."
+  },
+  "731": {
+    "class": "n03970156",
+    "label": "plunger",
+    "prompt": "A photo of plunger."
+  },
+  "732": {
+    "class": "n03976467",
+    "label": "Polaroid_camera",
+    "prompt": "A photo of Polaroid camera."
+  },
+  "733": {
+    "class": "n03976657",
+    "label": "pole",
+    "prompt": "A photo of pole."
+  },
+  "734": {
+    "class": "n03977966",
+    "label": "police_van",
+    "prompt": "A photo of police van."
+  },
+  "735": {
+    "class": "n03980874",
+    "label": "poncho",
+    "prompt": "A photo of poncho."
+  },
+  "736": {
+    "class": "n03982430",
+    "label": "pool_table",
+    "prompt": "A photo of pool table."
+  },
+  "737": {
+    "class": "n03983396",
+    "label": "pop_bottle",
+    "prompt": "A photo of pop bottle."
+  },
+  "738": {
+    "class": "n03991062",
+    "label": "pot",
+    "prompt": "A photo of pot."
+  },
+  "739": {
+    "class": "n03992509",
+    "label": "potter's_wheel",
+    "prompt": "A photo of potter's wheel."
+  },
+  "740": {
+    "class": "n03995372",
+    "label": "power_drill",
+    "prompt": "A photo of power drill."
+  },
+  "741": {
+    "class": "n03998194",
+    "label": "prayer_rug",
+    "prompt": "A photo of prayer rug."
+  },
+  "742": {
+    "class": "n04004767",
+    "label": "printer",
+    "prompt": "A photo of printer."
+  },
+  "743": {
+    "class": "n04005630",
+    "label": "prison",
+    "prompt": "A photo of prison."
+  },
+  "744": {
+    "class": "n04008634",
+    "label": "projectile",
+    "prompt": "A photo of projectile."
+  },
+  "745": {
+    "class": "n04009552",
+    "label": "projector",
+    "prompt": "A photo of projector."
+  },
+  "746": {
+    "class": "n04019541",
+    "label": "puck",
+    "prompt": "A photo of puck."
+  },
+  "747": {
+    "class": "n04023962",
+    "label": "punching_bag",
+    "prompt": "A photo of punching bag."
+  },
+  "748": {
+    "class": "n04026417",
+    "label": "purse",
+    "prompt": "A photo of purse."
+  },
+  "749": {
+    "class": "n04033901",
+    "label": "quill",
+    "prompt": "A photo of quill."
+  },
+  "750": {
+    "class": "n04033995",
+    "label": "quilt",
+    "prompt": "A photo of quilt."
+  },
+  "751": {
+    "class": "n04037443",
+    "label": "racer",
+    "prompt": "A photo of racer."
+  },
+  "752": {
+    "class": "n04039381",
+    "label": "racket",
+    "prompt": "A photo of racket."
+  },
+  "753": {
+    "class": "n04040759",
+    "label": "radiator",
+    "prompt": "A photo of radiator."
+  },
+  "754": {
+    "class": "n04041544",
+    "label": "radio",
+    "prompt": "A photo of radio."
+  },
+  "755": {
+    "class": "n04044716",
+    "label": "radio_telescope",
+    "prompt": "A photo of radio telescope."
+  },
+  "756": {
+    "class": "n04049303",
+    "label": "rain_barrel",
+    "prompt": "A photo of rain barrel."
+  },
+  "757": {
+    "class": "n04065272",
+    "label": "recreational_vehicle",
+    "prompt": "A photo of recreational vehicle."
+  },
+  "758": {
+    "class": "n04067472",
+    "label": "reel",
+    "prompt": "A photo of reel."
+  },
+  "759": {
+    "class": "n04069434",
+    "label": "reflex_camera",
+    "prompt": "A photo of reflex camera."
+  },
+  "760": {
+    "class": "n04070727",
+    "label": "refrigerator",
+    "prompt": "A photo of refrigerator."
+  },
+  "761": {
+    "class": "n04074963",
+    "label": "remote_control",
+    "prompt": "A photo of remote control."
+  },
+  "762": {
+    "class": "n04081281",
+    "label": "restaurant",
+    "prompt": "A photo of restaurant."
+  },
+  "763": {
+    "class": "n04086273",
+    "label": "revolver",
+    "prompt": "A photo of revolver."
+  },
+  "764": {
+    "class": "n04090263",
+    "label": "rifle",
+    "prompt": "A photo of rifle."
+  },
+  "765": {
+    "class": "n04099969",
+    "label": "rocking_chair",
+    "prompt": "A photo of rocking chair."
+  },
+  "766": {
+    "class": "n04111531",
+    "label": "rotisserie",
+    "prompt": "A photo of rotisserie."
+  },
+  "767": {
+    "class": "n04116512",
+    "label": "rubber_eraser",
+    "prompt": "A photo of rubber eraser."
+  },
+  "768": {
+    "class": "n04118538",
+    "label": "rugby_ball",
+    "prompt": "A photo of rugby ball."
+  },
+  "769": {
+    "class": "n04118776",
+    "label": "rule",
+    "prompt": "A photo of rule."
+  },
+  "770": {
+    "class": "n04120489",
+    "label": "running_shoe",
+    "prompt": "A photo of running shoe."
+  },
+  "771": {
+    "class": "n04125021",
+    "label": "safe",
+    "prompt": "A photo of safe."
+  },
+  "772": {
+    "class": "n04127249",
+    "label": "safety_pin",
+    "prompt": "A photo of safety pin."
+  },
+  "773": {
+    "class": "n04131690",
+    "label": "saltshaker",
+    "prompt": "A photo of saltshaker."
+  },
+  "774": {
+    "class": "n04133789",
+    "label": "sandal",
+    "prompt": "A photo of sandal."
+  },
+  "775": {
+    "class": "n04136333",
+    "label": "sarong",
+    "prompt": "A photo of sarong."
+  },
+  "776": {
+    "class": "n04141076",
+    "label": "sax",
+    "prompt": "A photo of sax."
+  },
+  "777": {
+    "class": "n04141327",
+    "label": "scabbard",
+    "prompt": "A photo of scabbard."
+  },
+  "778": {
+    "class": "n04141975",
+    "label": "scale",
+    "prompt": "A photo of scale."
+  },
+  "779": {
+    "class": "n04146614",
+    "label": "school_bus",
+    "prompt": "A photo of school bus."
+  },
+  "780": {
+    "class": "n04147183",
+    "label": "schooner",
+    "prompt": "A photo of schooner."
+  },
+  "781": {
+    "class": "n04149813",
+    "label": "scoreboard",
+    "prompt": "A photo of scoreboard."
+  },
+  "782": {
+    "class": "n04152593",
+    "label": "screen",
+    "prompt": "A photo of screen."
+  },
+  "783": {
+    "class": "n04153751",
+    "label": "screw",
+    "prompt": "A photo of screw."
+  },
+  "784": {
+    "class": "n04154565",
+    "label": "screwdriver",
+    "prompt": "A photo of screwdriver."
+  },
+  "785": {
+    "class": "n04162706",
+    "label": "seat_belt",
+    "prompt": "A photo of seat belt."
+  },
+  "786": {
+    "class": "n04179913",
+    "label": "sewing_machine",
+    "prompt": "A photo of sewing machine."
+  },
+  "787": {
+    "class": "n04192698",
+    "label": "shield",
+    "prompt": "A photo of shield."
+  },
+  "788": {
+    "class": "n04200800",
+    "label": "shoe_shop",
+    "prompt": "A photo of shoe shop."
+  },
+  "789": {
+    "class": "n04201297",
+    "label": "shoji",
+    "prompt": "A photo of shoji."
+  },
+  "790": {
+    "class": "n04204238",
+    "label": "shopping_basket",
+    "prompt": "A photo of shopping basket."
+  },
+  "791": {
+    "class": "n04204347",
+    "label": "shopping_cart",
+    "prompt": "A photo of shopping cart."
+  },
+  "792": {
+    "class": "n04208210",
+    "label": "shovel",
+    "prompt": "A photo of shovel."
+  },
+  "793": {
+    "class": "n04209133",
+    "label": "shower_cap",
+    "prompt": "A photo of shower cap."
+  },
+  "794": {
+    "class": "n04209239",
+    "label": "shower_curtain",
+    "prompt": "A photo of shower curtain."
+  },
+  "795": {
+    "class": "n04228054",
+    "label": "ski",
+    "prompt": "A photo of ski."
+  },
+  "796": {
+    "class": "n04229816",
+    "label": "ski_mask",
+    "prompt": "A photo of ski mask."
+  },
+  "797": {
+    "class": "n04235860",
+    "label": "sleeping_bag",
+    "prompt": "A photo of sleeping bag."
+  },
+  "798": {
+    "class": "n04238763",
+    "label": "slide_rule",
+    "prompt": "A photo of slide rule."
+  },
+  "799": {
+    "class": "n04239074",
+    "label": "sliding_door",
+    "prompt": "A photo of sliding door."
+  },
+  "800": {
+    "class": "n04243546",
+    "label": "slot",
+    "prompt": "A photo of slot."
+  },
+  "801": {
+    "class": "n04251144",
+    "label": "snorkel",
+    "prompt": "A photo of snorkel."
+  },
+  "802": {
+    "class": "n04252077",
+    "label": "snowmobile",
+    "prompt": "A photo of snowmobile."
+  },
+  "803": {
+    "class": "n04252225",
+    "label": "snowplow",
+    "prompt": "A photo of snowplow."
+  },
+  "804": {
+    "class": "n04254120",
+    "label": "soap_dispenser",
+    "prompt": "A photo of soap dispenser."
+  },
+  "805": {
+    "class": "n04254680",
+    "label": "soccer_ball",
+    "prompt": "A photo of soccer ball."
+  },
+  "806": {
+    "class": "n04254777",
+    "label": "sock",
+    "prompt": "A photo of sock."
+  },
+  "807": {
+    "class": "n04258138",
+    "label": "solar_dish",
+    "prompt": "A photo of solar dish."
+  },
+  "808": {
+    "class": "n04259630",
+    "label": "sombrero",
+    "prompt": "A photo of sombrero."
+  },
+  "809": {
+    "class": "n04263257",
+    "label": "soup_bowl",
+    "prompt": "A photo of soup bowl."
+  },
+  "810": {
+    "class": "n04264628",
+    "label": "space_bar",
+    "prompt": "A photo of space bar."
+  },
+  "811": {
+    "class": "n04265275",
+    "label": "space_heater",
+    "prompt": "A photo of space heater."
+  },
+  "812": {
+    "class": "n04266014",
+    "label": "space_shuttle",
+    "prompt": "A photo of space shuttle."
+  },
+  "813": {
+    "class": "n04270147",
+    "label": "spatula",
+    "prompt": "A photo of spatula."
+  },
+  "814": {
+    "class": "n04273569",
+    "label": "speedboat",
+    "prompt": "A photo of speedboat."
+  },
+  "815": {
+    "class": "n04275548",
+    "label": "spider_web",
+    "prompt": "A photo of spider web."
+  },
+  "816": {
+    "class": "n04277352",
+    "label": "spindle",
+    "prompt": "A photo of spindle."
+  },
+  "817": {
+    "class": "n04285008",
+    "label": "sports_car",
+    "prompt": "A photo of sports car."
+  },
+  "818": {
+    "class": "n04286575",
+    "label": "spotlight",
+    "prompt": "A photo of spotlight."
+  },
+  "819": {
+    "class": "n04296562",
+    "label": "stage",
+    "prompt": "A photo of stage."
+  },
+  "820": {
+    "class": "n04310018",
+    "label": "steam_locomotive",
+    "prompt": "A photo of steam locomotive."
+  },
+  "821": {
+    "class": "n04311004",
+    "label": "steel_arch_bridge",
+    "prompt": "A photo of steel arch bridge."
+  },
+  "822": {
+    "class": "n04311174",
+    "label": "steel_drum",
+    "prompt": "A photo of steel drum."
+  },
+  "823": {
+    "class": "n04317175",
+    "label": "stethoscope",
+    "prompt": "A photo of stethoscope."
+  },
+  "824": {
+    "class": "n04325704",
+    "label": "stole",
+    "prompt": "A photo of stole."
+  },
+  "825": {
+    "class": "n04326547",
+    "label": "stone_wall",
+    "prompt": "A photo of stone wall."
+  },
+  "826": {
+    "class": "n04328186",
+    "label": "stopwatch",
+    "prompt": "A photo of stopwatch."
+  },
+  "827": {
+    "class": "n04330267",
+    "label": "stove",
+    "prompt": "A photo of stove."
+  },
+  "828": {
+    "class": "n04332243",
+    "label": "strainer",
+    "prompt": "A photo of strainer."
+  },
+  "829": {
+    "class": "n04335435",
+    "label": "streetcar",
+    "prompt": "A photo of streetcar."
+  },
+  "830": {
+    "class": "n04336792",
+    "label": "stretcher",
+    "prompt": "A photo of stretcher."
+  },
+  "831": {
+    "class": "n04344873",
+    "label": "studio_couch",
+    "prompt": "A photo of studio couch."
+  },
+  "832": {
+    "class": "n04346328",
+    "label": "stupa",
+    "prompt": "A photo of stupa."
+  },
+  "833": {
+    "class": "n04347754",
+    "label": "submarine",
+    "prompt": "A photo of submarine."
+  },
+  "834": {
+    "class": "n04350905",
+    "label": "suit",
+    "prompt": "A photo of suit."
+  },
+  "835": {
+    "class": "n04355338",
+    "label": "sundial",
+    "prompt": "A photo of sundial."
+  },
+  "836": {
+    "class": "n04355933",
+    "label": "sunglass",
+    "prompt": "A photo of sunglass."
+  },
+  "837": {
+    "class": "n04356056",
+    "label": "sunglasses",
+    "prompt": "A photo of sunglasses."
+  },
+  "838": {
+    "class": "n04357314",
+    "label": "sunscreen",
+    "prompt": "A photo of sunscreen."
+  },
+  "839": {
+    "class": "n04366367",
+    "label": "suspension_bridge",
+    "prompt": "A photo of suspension bridge."
+  },
+  "840": {
+    "class": "n04367480",
+    "label": "swab",
+    "prompt": "A photo of swab."
+  },
+  "841": {
+    "class": "n04370456",
+    "label": "sweatshirt",
+    "prompt": "A photo of sweatshirt."
+  },
+  "842": {
+    "class": "n04371430",
+    "label": "swimming_trunks",
+    "prompt": "A photo of swimming trunks."
+  },
+  "843": {
+    "class": "n04371774",
+    "label": "swing",
+    "prompt": "A photo of swing."
+  },
+  "844": {
+    "class": "n04372370",
+    "label": "switch",
+    "prompt": "A photo of switch."
+  },
+  "845": {
+    "class": "n04376876",
+    "label": "syringe",
+    "prompt": "A photo of syringe."
+  },
+  "846": {
+    "class": "n04380533",
+    "label": "table_lamp",
+    "prompt": "A photo of table lamp."
+  },
+  "847": {
+    "class": "n04389033",
+    "label": "tank",
+    "prompt": "A photo of tank."
+  },
+  "848": {
+    "class": "n04392985",
+    "label": "tape_player",
+    "prompt": "A photo of tape player."
+  },
+  "849": {
+    "class": "n04398044",
+    "label": "teapot",
+    "prompt": "A photo of teapot."
+  },
+  "850": {
+    "class": "n04399382",
+    "label": "teddy",
+    "prompt": "A photo of teddy."
+  },
+  "851": {
+    "class": "n04404412",
+    "label": "television",
+    "prompt": "A photo of television."
+  },
+  "852": {
+    "class": "n04409515",
+    "label": "tennis_ball",
+    "prompt": "A photo of tennis ball."
+  },
+  "853": {
+    "class": "n04417672",
+    "label": "thatch",
+    "prompt": "A photo of thatch."
+  },
+  "854": {
+    "class": "n04418357",
+    "label": "theater_curtain",
+    "prompt": "A photo of theater curtain."
+  },
+  "855": {
+    "class": "n04423845",
+    "label": "thimble",
+    "prompt": "A photo of thimble."
+  },
+  "856": {
+    "class": "n04428191",
+    "label": "thresher",
+    "prompt": "A photo of thresher."
+  },
+  "857": {
+    "class": "n04429376",
+    "label": "throne",
+    "prompt": "A photo of throne."
+  },
+  "858": {
+    "class": "n04435653",
+    "label": "tile_roof",
+    "prompt": "A photo of tile roof."
+  },
+  "859": {
+    "class": "n04442312",
+    "label": "toaster",
+    "prompt": "A photo of toaster."
+  },
+  "860": {
+    "class": "n04443257",
+    "label": "tobacco_shop",
+    "prompt": "A photo of tobacco shop."
+  },
+  "861": {
+    "class": "n04447861",
+    "label": "toilet_seat",
+    "prompt": "A photo of toilet seat."
+  },
+  "862": {
+    "class": "n04456115",
+    "label": "torch",
+    "prompt": "A photo of torch."
+  },
+  "863": {
+    "class": "n04458633",
+    "label": "totem_pole",
+    "prompt": "A photo of totem pole."
+  },
+  "864": {
+    "class": "n04461696",
+    "label": "tow_truck",
+    "prompt": "A photo of tow truck."
+  },
+  "865": {
+    "class": "n04462240",
+    "label": "toyshop",
+    "prompt": "A photo of toyshop."
+  },
+  "866": {
+    "class": "n04465501",
+    "label": "tractor",
+    "prompt": "A photo of tractor."
+  },
+  "867": {
+    "class": "n04467665",
+    "label": "trailer_truck",
+    "prompt": "A photo of trailer truck."
+  },
+  "868": {
+    "class": "n04476259",
+    "label": "tray",
+    "prompt": "A photo of tray."
+  },
+  "869": {
+    "class": "n04479046",
+    "label": "trench_coat",
+    "prompt": "A photo of trench coat."
+  },
+  "870": {
+    "class": "n04482393",
+    "label": "tricycle",
+    "prompt": "A photo of tricycle."
+  },
+  "871": {
+    "class": "n04483307",
+    "label": "trimaran",
+    "prompt": "A photo of trimaran."
+  },
+  "872": {
+    "class": "n04485082",
+    "label": "tripod",
+    "prompt": "A photo of tripod."
+  },
+  "873": {
+    "class": "n04486054",
+    "label": "triumphal_arch",
+    "prompt": "A photo of triumphal arch."
+  },
+  "874": {
+    "class": "n04487081",
+    "label": "trolleybus",
+    "prompt": "A photo of trolleybus."
+  },
+  "875": {
+    "class": "n04487394",
+    "label": "trombone",
+    "prompt": "A photo of trombone."
+  },
+  "876": {
+    "class": "n04493381",
+    "label": "tub",
+    "prompt": "A photo of tub."
+  },
+  "877": {
+    "class": "n04501370",
+    "label": "turnstile",
+    "prompt": "A photo of turnstile."
+  },
+  "878": {
+    "class": "n04505470",
+    "label": "typewriter_keyboard",
+    "prompt": "A photo of typewriter keyboard."
+  },
+  "879": {
+    "class": "n04507155",
+    "label": "umbrella",
+    "prompt": "A photo of umbrella."
+  },
+  "880": {
+    "class": "n04509417",
+    "label": "unicycle",
+    "prompt": "A photo of unicycle."
+  },
+  "881": {
+    "class": "n04515003",
+    "label": "upright",
+    "prompt": "A photo of upright."
+  },
+  "882": {
+    "class": "n04517823",
+    "label": "vacuum",
+    "prompt": "A photo of vacuum."
+  },
+  "883": {
+    "class": "n04522168",
+    "label": "vase",
+    "prompt": "A photo of vase."
+  },
+  "884": {
+    "class": "n04523525",
+    "label": "vault",
+    "prompt": "A photo of vault."
+  },
+  "885": {
+    "class": "n04525038",
+    "label": "velvet",
+    "prompt": "A photo of velvet."
+  },
+  "886": {
+    "class": "n04525305",
+    "label": "vending_machine",
+    "prompt": "A photo of vending machine."
+  },
+  "887": {
+    "class": "n04532106",
+    "label": "vestment",
+    "prompt": "A photo of vestment."
+  },
+  "888": {
+    "class": "n04532670",
+    "label": "viaduct",
+    "prompt": "A photo of viaduct."
+  },
+  "889": {
+    "class": "n04536866",
+    "label": "violin",
+    "prompt": "A photo of violin."
+  },
+  "890": {
+    "class": "n04540053",
+    "label": "volleyball",
+    "prompt": "A photo of volleyball."
+  },
+  "891": {
+    "class": "n04542943",
+    "label": "waffle_iron",
+    "prompt": "A photo of waffle iron."
+  },
+  "892": {
+    "class": "n04548280",
+    "label": "wall_clock",
+    "prompt": "A photo of wall clock."
+  },
+  "893": {
+    "class": "n04548362",
+    "label": "wallet",
+    "prompt": "A photo of wallet."
+  },
+  "894": {
+    "class": "n04550184",
+    "label": "wardrobe",
+    "prompt": "A photo of wardrobe."
+  },
+  "895": {
+    "class": "n04552348",
+    "label": "warplane",
+    "prompt": "A photo of warplane."
+  },
+  "896": {
+    "class": "n04553703",
+    "label": "washbasin",
+    "prompt": "A photo of washbasin."
+  },
+  "897": {
+    "class": "n04554684",
+    "label": "washer",
+    "prompt": "A photo of washer."
+  },
+  "898": {
+    "class": "n04557648",
+    "label": "water_bottle",
+    "prompt": "A photo of water bottle."
+  },
+  "899": {
+    "class": "n04560804",
+    "label": "water_jug",
+    "prompt": "A photo of water jug."
+  },
+  "900": {
+    "class": "n04562935",
+    "label": "water_tower",
+    "prompt": "A photo of water tower."
+  },
+  "901": {
+    "class": "n04579145",
+    "label": "whiskey_jug",
+    "prompt": "A photo of whiskey jug."
+  },
+  "902": {
+    "class": "n04579432",
+    "label": "whistle",
+    "prompt": "A photo of whistle."
+  },
+  "903": {
+    "class": "n04584207",
+    "label": "wig",
+    "prompt": "A photo of wig."
+  },
+  "904": {
+    "class": "n04589890",
+    "label": "window_screen",
+    "prompt": "A photo of window screen."
+  },
+  "905": {
+    "class": "n04590129",
+    "label": "window_shade",
+    "prompt": "A photo of window shade."
+  },
+  "906": {
+    "class": "n04591157",
+    "label": "Windsor_tie",
+    "prompt": "A photo of Windsor tie."
+  },
+  "907": {
+    "class": "n04591713",
+    "label": "wine_bottle",
+    "prompt": "A photo of wine bottle."
+  },
+  "908": {
+    "class": "n04592741",
+    "label": "wing",
+    "prompt": "A photo of wing."
+  },
+  "909": {
+    "class": "n04596742",
+    "label": "wok",
+    "prompt": "A photo of wok."
+  },
+  "910": {
+    "class": "n04597913",
+    "label": "wooden_spoon",
+    "prompt": "A photo of wooden spoon."
+  },
+  "911": {
+    "class": "n04599235",
+    "label": "wool",
+    "prompt": "A photo of wool."
+  },
+  "912": {
+    "class": "n04604644",
+    "label": "worm_fence",
+    "prompt": "A photo of worm fence."
+  },
+  "913": {
+    "class": "n04606251",
+    "label": "wreck",
+    "prompt": "A photo of wreck."
+  },
+  "914": {
+    "class": "n04612504",
+    "label": "yawl",
+    "prompt": "A photo of yawl."
+  },
+  "915": {
+    "class": "n04613696",
+    "label": "yurt",
+    "prompt": "A photo of yurt."
+  },
+  "916": {
+    "class": "n06359193",
+    "label": "web_site",
+    "prompt": "A photo of web site."
+  },
+  "917": {
+    "class": "n06596364",
+    "label": "comic_book",
+    "prompt": "A photo of comic book."
+  },
+  "918": {
+    "class": "n06785654",
+    "label": "crossword_puzzle",
+    "prompt": "A photo of crossword puzzle."
+  },
+  "919": {
+    "class": "n06794110",
+    "label": "street_sign",
+    "prompt": "A photo of street sign."
+  },
+  "920": {
+    "class": "n06874185",
+    "label": "traffic_light",
+    "prompt": "A photo of traffic light."
+  },
+  "921": {
+    "class": "n07248320",
+    "label": "book_jacket",
+    "prompt": "A photo of book jacket."
+  },
+  "922": {
+    "class": "n07565083",
+    "label": "menu",
+    "prompt": "A photo of menu."
+  },
+  "923": {
+    "class": "n07579787",
+    "label": "plate",
+    "prompt": "A photo of plate."
+  },
+  "924": {
+    "class": "n07583066",
+    "label": "guacamole",
+    "prompt": "A photo of guacamole."
+  },
+  "925": {
+    "class": "n07584110",
+    "label": "consomme",
+    "prompt": "A photo of consomme."
+  },
+  "926": {
+    "class": "n07590611",
+    "label": "hot_pot",
+    "prompt": "A photo of hot pot."
+  },
+  "927": {
+    "class": "n07613480",
+    "label": "trifle",
+    "prompt": "A photo of trifle."
+  },
+  "928": {
+    "class": "n07614500",
+    "label": "ice_cream",
+    "prompt": "A photo of ice cream."
+  },
+  "929": {
+    "class": "n07615774",
+    "label": "ice_lolly",
+    "prompt": "A photo of ice lolly."
+  },
+  "930": {
+    "class": "n07684084",
+    "label": "French_loaf",
+    "prompt": "A photo of French loaf."
+  },
+  "931": {
+    "class": "n07693725",
+    "label": "bagel",
+    "prompt": "A photo of bagel."
+  },
+  "932": {
+    "class": "n07695742",
+    "label": "pretzel",
+    "prompt": "A photo of pretzel."
+  },
+  "933": {
+    "class": "n07697313",
+    "label": "cheeseburger",
+    "prompt": "A photo of cheeseburger."
+  },
+  "934": {
+    "class": "n07697537",
+    "label": "hotdog",
+    "prompt": "A photo of hotdog."
+  },
+  "935": {
+    "class": "n07711569",
+    "label": "mashed_potato",
+    "prompt": "A photo of mashed potato."
+  },
+  "936": {
+    "class": "n07714571",
+    "label": "head_cabbage",
+    "prompt": "A photo of head cabbage."
+  },
+  "937": {
+    "class": "n07714990",
+    "label": "broccoli",
+    "prompt": "A photo of broccoli."
+  },
+  "938": {
+    "class": "n07715103",
+    "label": "cauliflower",
+    "prompt": "A photo of cauliflower."
+  },
+  "939": {
+    "class": "n07716358",
+    "label": "zucchini",
+    "prompt": "A photo of zucchini."
+  },
+  "940": {
+    "class": "n07716906",
+    "label": "spaghetti_squash",
+    "prompt": "A photo of spaghetti squash."
+  },
+  "941": {
+    "class": "n07717410",
+    "label": "acorn_squash",
+    "prompt": "A photo of acorn squash."
+  },
+  "942": {
+    "class": "n07717556",
+    "label": "butternut_squash",
+    "prompt": "A photo of butternut squash."
+  },
+  "943": {
+    "class": "n07718472",
+    "label": "cucumber",
+    "prompt": "A photo of cucumber."
+  },
+  "944": {
+    "class": "n07718747",
+    "label": "artichoke",
+    "prompt": "A photo of artichoke."
+  },
+  "945": {
+    "class": "n07720875",
+    "label": "bell_pepper",
+    "prompt": "A photo of bell pepper."
+  },
+  "946": {
+    "class": "n07730033",
+    "label": "cardoon",
+    "prompt": "A photo of cardoon."
+  },
+  "947": {
+    "class": "n07734744",
+    "label": "mushroom",
+    "prompt": "A photo of mushroom."
+  },
+  "948": {
+    "class": "n07742313",
+    "label": "Granny_Smith",
+    "prompt": "A photo of Granny Smith."
+  },
+  "949": {
+    "class": "n07745940",
+    "label": "strawberry",
+    "prompt": "A photo of strawberry."
+  },
+  "950": {
+    "class": "n07747607",
+    "label": "orange",
+    "prompt": "A photo of orange."
+  },
+  "951": {
+    "class": "n07749582",
+    "label": "lemon",
+    "prompt": "A photo of lemon."
+  },
+  "952": {
+    "class": "n07753113",
+    "label": "fig",
+    "prompt": "A photo of fig."
+  },
+  "953": {
+    "class": "n07753275",
+    "label": "pineapple",
+    "prompt": "A photo of pineapple."
+  },
+  "954": {
+    "class": "n07753592",
+    "label": "banana",
+    "prompt": "A photo of banana."
+  },
+  "955": {
+    "class": "n07754684",
+    "label": "jackfruit",
+    "prompt": "A photo of jackfruit."
+  },
+  "956": {
+    "class": "n07760859",
+    "label": "custard_apple",
+    "prompt": "A photo of custard apple."
+  },
+  "957": {
+    "class": "n07768694",
+    "label": "pomegranate",
+    "prompt": "A photo of pomegranate."
+  },
+  "958": {
+    "class": "n07802026",
+    "label": "hay",
+    "prompt": "A photo of hay."
+  },
+  "959": {
+    "class": "n07831146",
+    "label": "carbonara",
+    "prompt": "A photo of carbonara."
+  },
+  "960": {
+    "class": "n07836838",
+    "label": "chocolate_sauce",
+    "prompt": "A photo of chocolate sauce."
+  },
+  "961": {
+    "class": "n07860988",
+    "label": "dough",
+    "prompt": "A photo of dough."
+  },
+  "962": {
+    "class": "n07871810",
+    "label": "meat_loaf",
+    "prompt": "A photo of meat loaf."
+  },
+  "963": {
+    "class": "n07873807",
+    "label": "pizza",
+    "prompt": "A photo of pizza."
+  },
+  "964": {
+    "class": "n07875152",
+    "label": "potpie",
+    "prompt": "A photo of potpie."
+  },
+  "965": {
+    "class": "n07880968",
+    "label": "burrito",
+    "prompt": "A photo of burrito."
+  },
+  "966": {
+    "class": "n07892512",
+    "label": "red_wine",
+    "prompt": "A photo of red wine."
+  },
+  "967": {
+    "class": "n07920052",
+    "label": "espresso",
+    "prompt": "A photo of espresso."
+  },
+  "968": {
+    "class": "n07930864",
+    "label": "cup",
+    "prompt": "A photo of cup."
+  },
+  "969": {
+    "class": "n07932039",
+    "label": "eggnog",
+    "prompt": "A photo of eggnog."
+  },
+  "970": {
+    "class": "n09193705",
+    "label": "alp",
+    "prompt": "A photo of alp."
+  },
+  "971": {
+    "class": "n09229709",
+    "label": "bubble",
+    "prompt": "A photo of bubble."
+  },
+  "972": {
+    "class": "n09246464",
+    "label": "cliff",
+    "prompt": "A photo of cliff."
+  },
+  "973": {
+    "class": "n09256479",
+    "label": "coral_reef",
+    "prompt": "A photo of coral reef."
+  },
+  "974": {
+    "class": "n09288635",
+    "label": "geyser",
+    "prompt": "A photo of geyser."
+  },
+  "975": {
+    "class": "n09332890",
+    "label": "lakeside",
+    "prompt": "A photo of lakeside."
+  },
+  "976": {
+    "class": "n09399592",
+    "label": "promontory",
+    "prompt": "A photo of promontory."
+  },
+  "977": {
+    "class": "n09421951",
+    "label": "sandbar",
+    "prompt": "A photo of sandbar."
+  },
+  "978": {
+    "class": "n09428293",
+    "label": "seashore",
+    "prompt": "A photo of seashore."
+  },
+  "979": {
+    "class": "n09468604",
+    "label": "valley",
+    "prompt": "A photo of valley."
+  },
+  "980": {
+    "class": "n09472597",
+    "label": "volcano",
+    "prompt": "A photo of volcano."
+  },
+  "981": {
+    "class": "n09835506",
+    "label": "ballplayer",
+    "prompt": "A photo of ballplayer."
+  },
+  "982": {
+    "class": "n10148035",
+    "label": "groom",
+    "prompt": "A photo of groom."
+  },
+  "983": {
+    "class": "n10565667",
+    "label": "scuba_diver",
+    "prompt": "A photo of scuba diver."
+  },
+  "984": {
+    "class": "n11879895",
+    "label": "rapeseed",
+    "prompt": "A photo of rapeseed."
+  },
+  "985": {
+    "class": "n11939491",
+    "label": "daisy",
+    "prompt": "A photo of daisy."
+  },
+  "986": {
+    "class": "n12057211",
+    "label": "yellow_lady's_slipper",
+    "prompt": "A photo of yellow lady's slipper."
+  },
+  "987": {
+    "class": "n12144580",
+    "label": "corn",
+    "prompt": "A photo of corn."
+  },
+  "988": {
+    "class": "n12267677",
+    "label": "acorn",
+    "prompt": "A photo of acorn."
+  },
+  "989": {
+    "class": "n12620546",
+    "label": "hip",
+    "prompt": "A photo of hip."
+  },
+  "990": {
+    "class": "n12768682",
+    "label": "buckeye",
+    "prompt": "A photo of buckeye."
+  },
+  "991": {
+    "class": "n12985857",
+    "label": "coral_fungus",
+    "prompt": "A photo of coral fungus."
+  },
+  "992": {
+    "class": "n12998815",
+    "label": "agaric",
+    "prompt": "A photo of agaric."
+  },
+  "993": {
+    "class": "n13037406",
+    "label": "gyromitra",
+    "prompt": "A photo of gyromitra."
+  },
+  "994": {
+    "class": "n13040303",
+    "label": "stinkhorn",
+    "prompt": "A photo of stinkhorn."
+  },
+  "995": {
+    "class": "n13044778",
+    "label": "earthstar",
+    "prompt": "A photo of earthstar."
+  },
+  "996": {
+    "class": "n13052670",
+    "label": "hen-of-the-woods",
+    "prompt": "A photo of hen-of-the-woods."
+  },
+  "997": {
+    "class": "n13054560",
+    "label": "bolete",
+    "prompt": "A photo of bolete."
+  },
+  "998": {
+    "class": "n13133613",
+    "label": "ear",
+    "prompt": "A photo of ear."
+  },
+  "999": {
+    "class": "n15075141",
+    "label": "toilet_tissue",
+    "prompt": "A photo of toilet tissue."
+  }
+}
