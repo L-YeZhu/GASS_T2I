@@ -1,11 +1,10 @@
 # Geometry-Aware Spherical Sampling (GASS) for Diverse Text-to-Image Generation
 
-Ye Zhu (LIX, CNRS, École Polytechnique & CS, Princeton), Kaleb Newman (CS, Princeton), Johannes F. Lutzeyer (LIX, CNRS, École Polytechnique), Adriana Romero-Soriano (FAIR at Meta - Montreal & McGill University & Mila & Canada CIFAR AI chair), Michal Drozdzal (FAIR at Meta - Montreal), Olga Russakovsky (CS, Princeton)
+Ye Zhu (*LIX, CNRS, École Polytechnique & CS, Princeton*), Kaleb Newman (*CS, Princeton*), Johannes F. Lutzeyer (*LIX, CNRS, École Polytechnique*), Adriana Romero-Soriano (*FAIR at Meta - Montreal & McGill University & Mila & Canada CIFAR AI chair*), Michal Drozdzal (*FAIR at Meta - Montreal*), Olga Russakovsky (*CS, Princeton*)
 
 This is the official Pytorch implementation of the ICML 2026 paper **[GASS: Geometry-Aware Spherical Sampling for Disentangled Diversity Enhancement in Text-to-Image Generation](https://arxiv.org/abs/2602.17200)**.
 
 Below we show non-cherry-picked qualitative results of our proposed **GASS** sampling method compared to the vanilla CFG (classifier-free guidance) sampling baseline and other more recent diversity enhancement methods.
-
 
 
 
@@ -16,18 +15,16 @@ Below we show non-cherry-picked qualitative results of our proposed **GASS** sam
 
 ## 1. Motivation and problem
 
-### 1.1 Motivation
 
-We consider the task of amplifying the sample diversity for text-to-image generative models given a fixed prompt. Instead of framing this as an entropy enhancement problem like most prior work do, we formulate this as a geomterical challenge, whose goal is to increase the geometrical spread covered by a batch of generated images within a hypersphere.
-
-
-### 1.2 Problem formulation
+We consider the task of amplifying the sample diversity for text-to-image generative models given a fixed prompt. Instead of framing this as an entropy enhancement problem like most prior work does, we formulate this as a geometrical challenge, with the goal of increasing the geometrical spread covered by a batch of generated images within a hypersphere.
 
 
+<p align="center">
+	<img src="assets/sphere.png", width="600">
 
 
 
-## 2. Environment setup and clarification
+## 2. Environment setup
 
 We used the 
 
@@ -35,7 +32,7 @@ We used the
 
 ## 3. Dataset preparation
 
-The prompt files of ImageNet and Drawbench can be found in the folder ```./datasets```. 
+The prompt files of ImageNet and Drawbench can be found in the folder ```./datasets```. For ImageNet, we used a template ```A photo of [class name]``` for each prompt. 
 
 
 ## 4. Base CFG and GASS Sampling 
@@ -54,4 +51,4 @@ If you find our work interesting and useful, please consider citing it.
 
 ### Acknowledgements
 
-This project is mainly supported 
+This project is primarily supported through the research grant from Meta Inc..
