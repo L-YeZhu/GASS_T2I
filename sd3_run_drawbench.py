@@ -10,12 +10,13 @@ def sanitize_filename(text):
     return text.replace("'", "").replace(" ", "_").replace(",", "").replace(".", "").lower()[:50]
 
 def generate_images_sd3(
-    prompt_file="./datasets/drawbench_prompts.txt",
-    output_dir="./results/sd3medium/drawbench",
+    prompt_file="./datasets/drawbench/drawbench_prompts.txt",
+    output_dir="./results/sd3m/drawbench_cfg",
     model_id="stabilityai/stable-diffusion-3-medium-diffusers",
+    max_batch_size=10, # number of generated images for each prompt 
     guidance_scale=7.0,
     num_inference_steps=28,
-    negative_prompt="",
+    negative_prompt="blurry, low quality, bad anatomy, deformed, extra limbs.",
     seed=42
 ):
     # Load prompts with counts
@@ -35,12 +36,8 @@ def generate_images_sd3(
     generator = torch.Generator(device="cuda").manual_seed(seed)
     output_root = Path(output_dir)
     output_root.mkdir(parents=True, exist_ok=True)
-    # print("check prompt and count", len(prompt_counts), prompt_counts[0])
-    # exit()
 
-    # total_images = 0
-    # total_time = 0.0
-    count = 8
+    count = max_batch_size
     for i, prompt in enumerate(lines):
         subdir = output_root / f"{i:03d}_{sanitize_filename(prompt)}"
         subdir.mkdir(parents=True, exist_ok=True)
@@ -54,10 +51,11 @@ def generate_images_sd3(
         for j in range(count):
             image = pipe(
                 prompt=prompt,
+                negative_prompt=negative_prompt,
                 guidance_scale=guidance_scale,
                 num_inference_steps=num_inference_steps,
-                height=768,
-                width=768,
+                height=512,
+                width=512,
                 generator=generator,
             ).images[0]
             image.save(subdir / f"sample_{j:02d}.png")
